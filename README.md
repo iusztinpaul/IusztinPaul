@@ -1,7 +1,7 @@
-🧑‍🏫 Mid-to-senior machine learning & software engineer, contractor, and freelancer
+🧑‍🏫 𝐒𝐞𝐧𝐢𝐨𝐫 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 engineer, contractor, and freelancer with 𝟒+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 in the industry.
 
-🧠 Dedicated to building great products that will have an impact on the world. I am a curiosity-driven person. Passionate about topics like Machine Learning, Deep Learning, Computer Vision, and Reinforcement Learning. But, I am open to learn about any topic related to data. Also, I enjoy writing software. Experienced in backend and mobile applications. Data is the new oil and I want to help to build the infrastructure for it.
+🧠 Dedicated to creating great products that add value to the world. I am motivated by the opportunity to learn new things. I enjoy developing high-quality artificial intelligence software.
 
-🎮 In my free time, I like to cook and read about the human mind, blockchain, and new technologies as investment opportunities.
+🎮 In my spare time, I enjoy cooking and reading about the human mind, blockchain, and emerging technologies as potential investment opportunities.
 
-💬 Feel free to contact me if you're interested in collaborating.
+💬 If you're interested in collaborating, 𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞.
