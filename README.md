@@ -4,4 +4,6 @@
 
 🎮 In my spare time, I enjoy cooking and reading about the human mind, blockchain, and emerging technologies as potential investment opportunities.
 
+🌍 Interested in 𝐫𝐞𝐦𝐨𝐭𝐞 work.
+
 💬 If you're interested in collaborating, 𝐟𝐞𝐞𝐥 𝐟𝐫𝐞𝐞 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞.
