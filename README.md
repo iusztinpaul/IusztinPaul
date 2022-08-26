@@ -4,7 +4,6 @@
 
 🦾 As a motivated and receptive person, Paul has a can-do attitude and takes on new challenges with a smile. 
 
-<br/>
 ⭐ With his extensive experience in machine learning, software engineering, and mathematics, Paul can architect, build, and operate production-ready machine learning solutions for businesses worldwide.
 <br/>
 ⭐ Paul believes that our principles define us. His main principles are delivering high-quality services, always working with curiosity & passion, and learning daily to keep his spark burning.
