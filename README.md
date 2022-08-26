@@ -7,9 +7,13 @@ Catchline
 🦾 As a motivated and receptive person, Paul has a can-do attitude and takes on new challenges with a smile. 
 
 Summary of my services
+<br/>
 ⭐ With his extensive experience in machine learning, software engineering, and mathematics, Paul can architect, build, and operate production-ready machine learning solutions for businesses worldwide.
+<br/>
 ⭐ Paul believes that our principles define us. His main principles are delivering high-quality services, always working with curiosity & passion, and learning daily to keep his spark burning.
+<br/>
 ⭐ He is a proactive person who likes collaborating with multi-functional teams and understanding the needs of the business stakeholders to deliver machine learning systems that directly impact the company.
+<br/>
 
 🔥 Paul is flourishing in cross-functional positions. Therefore, he enjoys working with start-ups.
 
