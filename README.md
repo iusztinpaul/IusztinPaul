@@ -1,12 +1,9 @@
-Headline
 🤖 Senior Machine Learning Engineer • MLOps •  Data Wizard • Contractor • Freelancer ~ Engineering scalable end-to-end machine learning solutions.
 
-Catchline
 💼 Senior Machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
 🦾 As a motivated and receptive person, Paul has a can-do attitude and takes on new challenges with a smile. 
 
-Summary of my services
 <br/>
 ⭐ With his extensive experience in machine learning, software engineering, and mathematics, Paul can architect, build, and operate production-ready machine learning solutions for businesses worldwide.
 <br/>
