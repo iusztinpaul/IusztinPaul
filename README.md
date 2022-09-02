@@ -18,7 +18,7 @@
 💬 Do you need machine learning solutions for your business? 𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐮𝐬𝐬!
 
 
-Contact
-📱 Phone: +40 732 509 516
-📓 Email: p.b.iusztin@gmail.com
-📘 LinkedIn: https://www.linkedin.com/in/paul-iusztin-7a047814a/
+Contact <br/>
+📱 Phone: +40 732 509 516 <br/>
+📓 Email: p.b.iusztin@gmail.com <br/>
+📘 LinkedIn: https://www.linkedin.com/in/paul-iusztin-7a047814a/ <br/>
