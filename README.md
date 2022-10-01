@@ -74,6 +74,16 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 .
 
+### Connect with me:
+
+
+[![website](./linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
+[![website](./linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin/#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
+[![website](./img/gmail_light.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](./img/medium.svg)]([https://medium.com/@alexandrurazvant](https://medium.com/@p.e.iusztin)#gh-dark-mode-only)
+[![website](./img/medium_light.svg)]([https://medium.com/@alexandrurazvant](https://medium.com/@p.e.iusztin)#gh-light-mode-only)
+
 📱 Phone: +40 732 509 516 <br/> 
-📓 Email: p.b.iusztin@gmail.com <br/>
-📘 LinkedIn: https://www.linkedin.com/in/pauliusztin/ <br/>
