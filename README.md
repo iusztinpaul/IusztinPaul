@@ -25,7 +25,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 • 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧: <br/>
 | object detection & segmentation | tracking | image retrieval | depth estimation & completion | images, videos & point clouds (LiDAR, Radar) | <br/>
 • 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: <br/>
-| portfolio optimization | order execution |
+| portfolio optimization | order execution | <br/>
 • 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠: <br/>
 | RESTful web APIs | cloud architecture | microservices | distributed systems | unit testing | OOP | clean code | dashboards | <br/>
 
@@ -36,9 +36,9 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 • Linux, Docker, Git, Airflow, Spark, Grafana, Prometheus <br/>
 • Aws (S3, EC2, Lambda, DynamoDB) <br/>
 • FastAPI, Flask, Django, React <br/>
-• SQL & NoSQL (PostgreSQL, Elasticsearch, SQLite, Redis) <br/>
+• PostgreSQL, Elasticsearch, SQLite, Redis <br/>
 
-➡️  Paul also emphasizes:
+➡️  Paul also emphasizes: <br/>
 • business strategy <br/>
 • project planning <br/>
 • project management <br/>
@@ -51,7 +51,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 .
 
-Contact <br/>
 📱 Phone: +40 732 509 516 <br/> 
 📓 Email: p.b.iusztin@gmail.com <br/>
 📘 LinkedIn: https://www.linkedin.com/in/pauliusztin/ <br/>
