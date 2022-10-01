@@ -1,3 +1,6 @@
+# 🤖 Paul Iusztin
+**`Senior Machine Learning Engineer • MLOps  • Contractor • Freelancer ~ Engineering scalable infrastructure and machine learning solutions.`**
+
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
 ⭐ My mission is to build ML products that add value to the world and always to follow my curiosity.
@@ -12,8 +15,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ✒️ Sharing my machine learning and MLOps journey on Medium: https://medium.com/@p.e.iusztin
 
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
-
-.
 
 ### 🧰 Languages and Tools
 
@@ -91,3 +92,9 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 [![website](./img/medium_light.svg)]([https://medium.com/@alexandrurazvant](https://medium.com/@p.e.iusztin)#gh-light-mode-only)
 
 📱 Phone: +40 732 509 516 <br/> 
+
+
+### 📊 Stats
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
+
+![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
