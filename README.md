@@ -1,3 +1,6 @@
+<img src="
+2074347754_engineer_uses_data_to_build_artificial_intelligence__eureka_moments__oil_painting__concept_art.png">
+
 # 🤖 Paul Iusztin
 **`Senior Machine Learning Engineer • MLOps  • Contractor • Freelancer ~ Engineering scalable infrastructure and machine learning solutions.`**
 
