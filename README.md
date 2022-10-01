@@ -3,7 +3,7 @@
 ⭐ My mission is to build ML products that add value to the world and always to follow my curiosity.
 
 My passion is all about building high-quality infrastructure and machine learning systems. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐚𝐧𝐝 𝐨𝐩𝐞𝐫𝐚𝐭𝐞 production-ready 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 for your business.
-<br/>
+<br/><br/>
 I have fun organizing, planning, and maintaining clean software solutions. Also, I enjoy collaborating with multi-functional teams and identifying the needs of business stakeholders to deliver machine learning systems that directly impact your company.
 <br/>
 
@@ -17,16 +17,16 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 ➡️ Programming languages:  Python, SQL, Bash, Node.js, C++
 
-➡️ Paul's core skills are:
+➡️ Paul's core skills are: <br/>
 • 𝐌𝐋𝐎𝐩𝐬:
 | experiment tracking | code, model & data versioning | continuous training | model serving | continuous monitoring |
-• 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:
+• 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: <br/>
 | supervised and unsupervised techniques | forecasting, regression & classification | data cleaning, visualization & analysis  | recommendation systems | online experimentation (A/B testing) | tabular data & time series |
-• 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧:
+• 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧: <br/>
 | object detection & segmentation | tracking | image retrieval | depth estimation & completion | images, videos & point clouds (LiDAR, Radar) |
-• 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:
+• 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: <br/>
 | portfolio optimization | order execution |
-• 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:
+• 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠: <br/>
 | RESTful web APIs | cloud architecture | microservices | distributed systems | unit testing | OOP | clean code | dashboards |
 
 ➡️ Technologies:
