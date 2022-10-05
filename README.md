@@ -88,12 +88,10 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./images/linkedin.svg">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./images/linkedin_light.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./images/linkedin_light.svg">
 </picture>
 
 [![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
