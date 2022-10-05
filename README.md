@@ -13,11 +13,13 @@
 
 [//]: # (</div>)
 
+### About Me | Services
+
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
-⭐ My mission is to build ML products that add value to the world and always to follow my curiosity.
+⭐ My mission is, by following my curiosity, to build machine learning products that add value to the world.
 
-My passion is all about building high-quality infrastructure and machine learning systems. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐚𝐧𝐝 𝐨𝐩𝐞𝐫𝐚𝐭𝐞 production-ready 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 for your business.
+My passion is all about building high-quality infrastructure and ML systems. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐚𝐧𝐝 𝐨𝐩𝐞𝐫𝐚𝐭𝐞 production-ready 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 for your business.
 <br/><br/>
 I have fun organizing, planning, and maintaining clean software solutions. Also, I enjoy collaborating with multi-functional teams and identifying the needs of business stakeholders to deliver machine learning systems that directly impact your company.
 <br/>
@@ -28,7 +30,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
 
-### 🧰 Languages and Tools
+### Knowledge
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
@@ -53,8 +55,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-
-
 
 <br/>
 <br/>
@@ -100,7 +100,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 ### Connect with me:
 
-
 [![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
 [![linkedin](./images/linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin#gh-light-mode-only)
 &nbsp;&nbsp;
@@ -112,8 +111,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 📱 Phone: +40 732 509 516 <br/> 
 
-
-### 📊 Stats
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
 
 
