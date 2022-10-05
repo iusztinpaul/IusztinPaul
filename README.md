@@ -82,8 +82,8 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ### Connect with me:
 
 
-[![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
-[![linkedin](./images/linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin/#gh-light-mode-only)
+[![linkedin](./images/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/pauliusztin)
+[![linkedin](./images/linkedin_light.svg#gh-light-mode-only)](https://www.linkedin.com/in/pauliusztin)
 &nbsp;&nbsp;
 [![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
 [![gmail](./images/gmail_light.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-light-mode-only)
