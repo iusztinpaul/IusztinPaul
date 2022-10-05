@@ -88,8 +88,8 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 [![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
 [![gmail](./images/gmail_light.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-light-mode-only)
 &nbsp;&nbsp;
-[![medium](./images/medium.svg)]([https://medium.com/@alexandrurazvant](https://medium.com/@p.e.iusztin)#gh-dark-mode-only)
-[![medium](./images/medium_light.svg)]([https://medium.com/@alexandrurazvant](https://medium.com/@p.e.iusztin)#gh-light-mode-only)
+[![medium](./images/medium.svg)](https://medium.com/@p.e.iusztin#gh-dark-mode-only)
+[![medium](./images/medium_light.svg)](https://medium.com/@p.e.iusztin#gh-light-mode-only)
 
 📱 Phone: +40 732 509 516 <br/> 
 
@@ -98,25 +98,3 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
 
 ![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
-
-
-![LinkedIn](https://www.linkedin.com/in/pauliusztin)
-
-<style>
-.libutton {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 7px;
-  text-align: center;
-  outline: none;
-  text-decoration: none !important;
-  color: #ffffff !important;
-  width: 200px;
-  height: 32px;
-  border-radius: 16px;
-  background-color: #0A66C2;
-  font-family: "SF Pro Text", Helvetica, sans-serif;
-}
-</style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pauliusztin" target="_blank">Follow on LinkedIn</a>
