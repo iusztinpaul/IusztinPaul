@@ -101,9 +101,18 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 [![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
 [![linkedin](./images/linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin#gh-light-mode-only)
+
+<a href="https://www.linkedin.com/in/pauliusztin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./images/linkedin_light.svg">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/linkedin.svg">
+    </picture>
+</a>
+
 &nbsp;&nbsp;
-[![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
-[![gmail](./images/gmail_light.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-light-mode-only)
+[![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-dark-mode-only)
+[![gmail](./images/gmail_light.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-light-mode-only)
 &nbsp;&nbsp;
 [![medium](./images/medium.svg)](https://medium.com/@p.e.iusztin#gh-dark-mode-only)
 [![medium](./images/medium_light.svg)](https://medium.com/@p.e.iusztin#gh-light-mode-only)
