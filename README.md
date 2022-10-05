@@ -10,7 +10,7 @@
 
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
-⭐ My mission is, by following my curiosity, to build machine learning products that add value to the world.
+⭐ By following my curiosity, my mission is to build machine learning products that add value to the world.
 
 My passion is all about building high-quality infrastructure and ML systems. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐚𝐧𝐝 𝐨𝐩𝐞𝐫𝐚𝐭𝐞 production-ready 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 for your business.
 <br/><br/>
@@ -101,7 +101,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
     </picture>
 </a>
 &nbsp;&nbsp
-<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML consultations for my business%20:">
+<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML consultations for my business:">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
