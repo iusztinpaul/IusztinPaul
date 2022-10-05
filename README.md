@@ -2,10 +2,15 @@
 
 **`Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.`**
 <br/>
-<div align="center">
-    <h2>Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.</h2>
-    <img src="https://komarev.com/ghpvc/?username=IusztinPaul"/>
-</div>
+![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
+
+[//]: # (<div align="center">)
+
+[//]: # (    <h2>Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.</h2>)
+
+[//]: # (    <img src="https://komarev.com/ghpvc/?username=IusztinPaul"/>)
+
+[//]: # (</div>)
 
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
