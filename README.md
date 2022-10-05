@@ -82,13 +82,13 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ### Connect with me:
 
 
-[![linkedin](./images/linkedin.svg#gh-dark-mode-only)](https://www.linkedin.com/in/pauliusztin)
-[![linkedin](./images/linkedin_light.svg#gh-light-mode-only)](https://www.linkedin.com/in/pauliusztin)
+[![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
+[![linkedin](./images/linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin#gh-light-mode-only)
 &nbsp;&nbsp;
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg">
-  <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./images/linkedin_light.svg">
+  <a href="https://www.linkedin.com/in/pauliusztin"><source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg"></a>
+  <a href="https://www.linkedin.com/in/pauliusztin"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./images/linkedin_light.svg"></a>
 </picture>
 
 [![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
