@@ -98,3 +98,9 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
 
 ![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="pauliusztin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/pauliusztin?trk=profile-badge">Paul Iusztin</a></div>
+              
+
