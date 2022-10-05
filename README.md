@@ -2,6 +2,7 @@
 
 **`Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.`**
 <br/>
+<br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 [//]: # (<div align="center">)
@@ -41,6 +42,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 
