@@ -82,9 +82,11 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ### Connect with me:
 
 
-[![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
-[![linkedin](./images/linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin#gh-light-mode-only)
-&nbsp;&nbsp;
+[//]: # ([![linkedin]&#40;./images/linkedin.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only&#41;)
+
+[//]: # ([![linkedin]&#40;./images/linkedin_light.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-light-mode-only&#41;)
+
+[//]: # (&nbsp;&nbsp;)
 
 <picture>
   <a href="https://www.linkedin.com/in/pauliusztin"><source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg"></a>
