@@ -100,7 +100,23 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="pauliusztin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ro.linkedin.com/in/pauliusztin?trk=profile-badge">Paul Iusztin</a></div>
-              
+![LinkedIn](https://www.linkedin.com/in/pauliusztin)
 
+<style>
+.libutton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 7px;
+  text-align: center;
+  outline: none;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  width: 200px;
+  height: 32px;
+  border-radius: 16px;
+  background-color: #0A66C2;
+  font-family: "SF Pro Text", Helvetica, sans-serif;
+}
+</style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=pauliusztin" target="_blank">Follow on LinkedIn</a>
