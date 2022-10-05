@@ -1,6 +1,6 @@
 # 🤖 Paul Iusztin
-![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
 **`Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.`**
+![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
@@ -19,8 +19,8 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
