@@ -13,7 +13,7 @@
 
 [//]: # (</div>)
 
-### About Me | Services
+### About Me
 
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
@@ -61,12 +61,11 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 <br/>
 <br/>
 <br/>
-
 .
 
 ➡️ Programming languages:  Python, SQL, Bash, Node.js, C++
 
-➡️ Paul's core skills are: <br/>
+➡️ My core skills are: <br/>
 • 𝐌𝐋𝐎𝐩𝐬: <br/>
 | experiment tracking | code, model & data versioning | continuous training | model serving | continuous monitoring | <br/>
 • 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: <br/>
@@ -87,12 +86,11 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 • FastAPI, Flask, Django, React <br/>
 • PostgreSQL, Elasticsearch, SQLite, Redis <br/>
 
-➡️  Paul also emphasizes: <br/>
+➡️  I also emphasize on: <br/>
 • business strategy <br/>
 • project planning <br/>
 • project management <br/>
 • mentoring <br/>
-• communication and listening <br/>
 
 .
 
@@ -112,6 +110,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 [![medium](./images/medium_light.svg)](https://medium.com/@p.e.iusztin#gh-light-mode-only)
 
 .
+
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
 
