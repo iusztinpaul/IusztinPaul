@@ -121,6 +121,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/linkedin.svg">
     </picture>
 </a>
+&nbsp;&nbsp
 <a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
@@ -128,6 +129,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/gmail.svg">
     </picture>
 </a>
+&nbsp;&nbsp
 <a href="https://medium.com/@p.e.iusztin">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/medium.svg">
@@ -135,8 +137,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/medium.svg">
     </picture>
 </a>
-
-
 
 <br/>
 
