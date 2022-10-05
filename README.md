@@ -2,7 +2,6 @@
 **`Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.`**
 <br/>
 <p align="center">
-![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
 <img src="https://komarev.com/ghpvc/?username=IusztinPaul"/>
 </p>
 
