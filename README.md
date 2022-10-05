@@ -5,13 +5,6 @@
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
-[//]: # (<div align="center">)
-
-[//]: # (    <h2>Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.</h2>)
-
-[//]: # (    <img src="https://komarev.com/ghpvc/?username=IusztinPaul"/>)
-
-[//]: # (</div>)
 
 ### About Me
 
@@ -30,7 +23,8 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
 
-### Knowledge
+
+### Services
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
@@ -99,21 +93,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 ### Connect with me:
 
-[//]: # ([![linkedin]&#40;./images/linkedin.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only&#41;)
-
-[//]: # ([![linkedin]&#40;./images/linkedin_light.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-light-mode-only&#41;)
-
-[//]: # (&nbsp;&nbsp;)
-[//]: # ([![gmail]&#40;./images/gmail.svg&#41;]&#40;mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-dark-mode-only&#41;)
-
-[//]: # ([![gmail]&#40;./images/gmail_light.svg&#41;]&#40;mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-light-mode-only&#41;)
-
-[//]: # (&nbsp;&nbsp;)
-
-[//]: # ([![medium]&#40;./images/medium.svg&#41;]&#40;https://medium.com/@p.e.iusztin#gh-dark-mode-only&#41;)
-
-[//]: # ([![medium]&#40;./images/medium_light.svg&#41;]&#40;https://medium.com/@p.e.iusztin#gh-light-mode-only&#41;)
-
 <a href="https://www.linkedin.com/in/pauliusztin">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg">
@@ -122,7 +101,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
     </picture>
 </a>
 &nbsp;&nbsp
-<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:">
+<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML consultations for my business%20:">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
