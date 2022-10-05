@@ -90,7 +90,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 <picture>
   <a href="https://www.linkedin.com/in/pauliusztin"><source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg"></a>
-  <a href="https://www.linkedin.com/in/pauliusztin"><img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="./images/linkedin_light.svg"></a>
+  <a href="https://www.linkedin.com/in/pauliusztin"><img alt="image" src="./images/linkedin_light.svg"></a>
 </picture>
 
 [![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
