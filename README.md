@@ -1,7 +1,8 @@
 # 🤖 Paul Iusztin
+
+<p align="center">
 **`Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.`**
 <br/>
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=IusztinPaul"/>
 </p>
 
