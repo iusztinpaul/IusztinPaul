@@ -1,5 +1,6 @@
 # 🤖 Paul Iusztin
-**`Senior Machine Learning Engineer • MLOps  • Contractor • Freelancer ~ Engineering scalable infrastructure and machine learning solutions.`**
+![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
+**`Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.`**
 
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
@@ -82,17 +83,9 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ### Connect with me:
 
 
-[//]: # ([![linkedin]&#40;./images/linkedin.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only&#41;)
-
-[//]: # ([![linkedin]&#40;./images/linkedin_light.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-light-mode-only&#41;)
-
-[//]: # (&nbsp;&nbsp;)
-
-<picture>
-  <a href="https://www.linkedin.com/in/pauliusztin"><source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg"></a>
-  <a href="https://www.linkedin.com/in/pauliusztin"><img alt="image" src="./images/linkedin_light.svg"></a>
-</picture>
-
+[![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
+[![linkedin](./images/linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin#gh-light-mode-only)
+&nbsp;&nbsp;
 [![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-dark-mode-only)
 [![gmail](./images/gmail_light.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20Consult%20:#gh-light-mode-only)
 &nbsp;&nbsp;
@@ -105,4 +98,4 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ### 📊 Stats
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
 
-![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
+
