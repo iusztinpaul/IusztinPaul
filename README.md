@@ -3,6 +3,7 @@
 <br/>
 <p align="center">
 ![Visits](https://komarev.com/ghpvc/?username=IusztinPaul)
+<img src="https://komarev.com/ghpvc/?username=IusztinPaul"/>
 </p>
 
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
