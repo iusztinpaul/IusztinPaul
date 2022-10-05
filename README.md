@@ -99,8 +99,20 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 ### Connect with me:
 
-[![linkedin](./images/linkedin.svg)](https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only)
-[![linkedin](./images/linkedin_light.svg)](https://www.linkedin.com/in/pauliusztin#gh-light-mode-only)
+[//]: # ([![linkedin]&#40;./images/linkedin.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-dark-mode-only&#41;)
+
+[//]: # ([![linkedin]&#40;./images/linkedin_light.svg&#41;]&#40;https://www.linkedin.com/in/pauliusztin#gh-light-mode-only&#41;)
+
+[//]: # (&nbsp;&nbsp;)
+[//]: # ([![gmail]&#40;./images/gmail.svg&#41;]&#40;mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-dark-mode-only&#41;)
+
+[//]: # ([![gmail]&#40;./images/gmail_light.svg&#41;]&#40;mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-light-mode-only&#41;)
+
+[//]: # (&nbsp;&nbsp;)
+
+[//]: # ([![medium]&#40;./images/medium.svg&#41;]&#40;https://medium.com/@p.e.iusztin#gh-dark-mode-only&#41;)
+
+[//]: # ([![medium]&#40;./images/medium_light.svg&#41;]&#40;https://medium.com/@p.e.iusztin#gh-light-mode-only&#41;)
 
 <a href="https://www.linkedin.com/in/pauliusztin">
     <picture>
@@ -109,13 +121,22 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/linkedin.svg">
     </picture>
 </a>
+<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/gmail.svg">
+    </picture>
+</a>
+<a href="https://medium.com/@p.e.iusztin">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/medium.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./images/medium.svg">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/medium.svg">
+    </picture>
+</a>
 
-&nbsp;&nbsp;
-[![gmail](./images/gmail.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-dark-mode-only)
-[![gmail](./images/gmail_light.svg)](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML for My Business%20:#gh-light-mode-only)
-&nbsp;&nbsp;
-[![medium](./images/medium.svg)](https://medium.com/@p.e.iusztin#gh-dark-mode-only)
-[![medium](./images/medium_light.svg)](https://medium.com/@p.e.iusztin#gh-light-mode-only)
+
 
 <br/>
 
