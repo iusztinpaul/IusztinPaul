@@ -95,7 +95,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 .
 
-##### 💬 Do you need machine learning solutions for your business? 𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐮𝐬𝐬!
+#### 💬 Do you need machine learning solutions for your business? 𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐮𝐬𝐬!
 
 .
 
