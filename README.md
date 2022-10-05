@@ -62,6 +62,8 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 <br/>
 <br/>
 
+.
+
 ➡️ Programming languages:  Python, SQL, Bash, Node.js, C++
 
 ➡️ Paul's core skills are: <br/>
@@ -109,7 +111,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 [![medium](./images/medium.svg)](https://medium.com/@p.e.iusztin#gh-dark-mode-only)
 [![medium](./images/medium_light.svg)](https://medium.com/@p.e.iusztin#gh-light-mode-only)
 
-📱 Phone: +40 732 509 516 <br/> 
+.
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
 
