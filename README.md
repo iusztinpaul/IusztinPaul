@@ -101,7 +101,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
     </picture>
 </a>
 &nbsp;&nbsp
-<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML consultations for my business:">
+<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Consultations">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
