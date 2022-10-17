@@ -101,19 +101,19 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
     </picture>
 </a>
 &nbsp;&nbsp
-<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Consultations">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
-      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/gmail.svg">
-    </picture>
-</a>
-&nbsp;&nbsp
 <a href="https://pauliusztin.medium.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/medium.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/medium.svg">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/medium.svg">
+    </picture>
+</a>
+&nbsp;&nbsp
+<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Consultations">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
+      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/gmail.svg">
     </picture>
 </a>
 
