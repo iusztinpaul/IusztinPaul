@@ -19,7 +19,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 🌎 Interested in 𝐫𝐞𝐦𝐨𝐭𝐞 𝐰𝐨𝐫𝐤.
 
-✒️ Sharing my machine learning and MLOps journey on Medium: https://medium.com/@p.e.iusztin
+✒️ Sharing my machine learning and MLOps journey on Medium: https://pauliusztin.medium.com/
 
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
 
@@ -109,7 +109,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
     </picture>
 </a>
 &nbsp;&nbsp
-<a href="https://medium.com/@p.e.iusztin">
+<a href="https://pauliusztin.medium.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/medium.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/medium.svg">
