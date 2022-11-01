@@ -23,6 +23,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
 
+-----
 
 ### Services
 
@@ -91,6 +92,8 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 .
 
+-----
+
 ### Let's Connect:
 
 <a href="https://www.linkedin.com/in/pauliusztin">
@@ -122,7 +125,6 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 **Support me:** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin).
 
-<br/>
 <br/>
 
 -----
