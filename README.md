@@ -124,6 +124,10 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 <br/>
 <br/>
+
+-----
+
+<br/>
 <br/>
 
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
