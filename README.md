@@ -17,7 +17,7 @@ My passion is all about building high-quality infrastructure and ML systems. Wit
 I have fun organizing, planning, and maintaining clean software solutions. Also, I enjoy collaborating with multi-functional teams and identifying the needs of business stakeholders to deliver machine learning systems that directly impact your company.
 <br/>
 
-🌎 Interested in 𝐫𝐞𝐦𝐨𝐭𝐞 𝐰𝐨𝐫𝐤.
+🌎 Interested in **remote work**.
 
 ✒️ Sharing my machine learning and MLOps journey on Medium: https://pauliusztin.medium.com/
 
