@@ -118,7 +118,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 </a>
 
 <br/>
-**Support me** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin)
+**Support me** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin).
 
 <br/>
 <br/>
