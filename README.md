@@ -91,7 +91,7 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 
 .
 
-### Connect With Me:
+### Let's Connect:
 
 <a href="https://www.linkedin.com/in/pauliusztin">
     <picture>
