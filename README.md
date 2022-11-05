@@ -1,6 +1,6 @@
 # 🤖 Paul Iusztin
 
-**`Senior Machine Learning Software Engineer • Computer Vision • Tabular Data • MLOps • Contractor • Freelancer ~ Engineering end-to-end machine learning solutions.`**
+**`Senior Machine Learning Software Engineer ~ Engineering end-to-end machine learning solutions.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
@@ -12,9 +12,11 @@
 
 ⭐ By following my curiosity, my mission is to build machine learning products that add value to the world.
 
-My passion is all about building high-quality infrastructure and ML systems. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐚𝐧𝐝 𝐨𝐩𝐞𝐫𝐚𝐭𝐞 production-ready 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 for your business.
+My passion is to master the craft of building large ML systems and high-quality infrastructure that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐝𝐞𝐩𝐥𝐨𝐲, and 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐀𝐈 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 for your business.
 <br/><br/>
-I have fun organizing, planning, and maintaining clean software solutions. Also, I enjoy collaborating with multi-functional teams and identifying the needs of business stakeholders to deliver machine learning systems that directly impact your company.
+My main areas of expertise are 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐭𝐚𝐛𝐮𝐥𝐚𝐫 𝐝𝐚𝐭𝐚 & 𝐭𝐢𝐦𝐞 𝐬𝐞𝐫𝐢𝐞𝐬), and 𝐌𝐋𝐎𝐩𝐬.
+<br/><br/>
+I have fun organizing, planning, and maintaining clean software solutions. I enjoy collaborating with multi-functional teams and mentoring juniors. Also, I emphasize understanding the needs of business stakeholders to deliver machine learning systems that directly impact your company.
 <br/>
 
 🌎 Interested in **remote work**.
@@ -60,30 +62,33 @@ I have fun organizing, planning, and maintaining clean software solutions. Also,
 ➡️ Programming languages:  Python, SQL, Bash, Node.js, C++
 
 ➡️ My core skills are: <br/>
-• 𝐌𝐋𝐎𝐩𝐬: <br/>
-| experiment tracking | code, model & data versioning | continuous training | model serving | continuous monitoring | <br/>
-• 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: <br/>
-| supervised and unsupervised techniques | forecasting, regression & classification | data cleaning, visualization & analysis  | recommendation systems | online experimentation (A/B testing) | tabular data & time series | <br/>
-• 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧: <br/>
-| object detection & segmentation | tracking | image retrieval | depth estimation & completion | images, videos & point clouds (LiDAR, Radar) | <br/>
-• 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: <br/>
-| portfolio optimization | order execution | <br/>
-• 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠: <br/>
-| RESTful web APIs | cloud architecture | microservices | distributed systems | unit testing | OOP | clean code | dashboards | <br/>
+𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:<br/>
+| supervised & unsupervised techniques | forecasting, regression & classification | data cleaning, visualization & analysis  | recommendation systems | A/B testing | tabular data & time series |<br/>
+
+𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧:<br/>
+| object detection & segmentation | tracking | image retrieval | depth estimation & completion | images, videos & point clouds (LiDAR, Radar) |<br/>
+
+𝐌𝐋𝐎𝐩𝐬:<br/>
+| experiment tracking | code, model & data versioning | continuous training & monitoring | model serving |<br/>
+
+𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:<br/>
+| RESTful web APIs | cloud architecture | microservices | distributed systems | unit testing | OOP | SOLID | DRY | clean code & architecture | dashboards |<br/>
+
+𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:<br/>
+| portfolio optimization | order execution |<br/>
 
 ➡️ Technologies: <br/>
-• Pytorch, Scikit-learn/Sklearn, Keras <br/>
-• Numpy, Pandas, OpenCV, CUDA, Matplotlib, Plotly <br/>
+• Pytorch, Scikit-learn (Sklearn), Keras <br/>
+• Numpy, Pandas, OpenCV, CUDA, Matplotlib <br/>
 • ClearML, DVC, Weights & Biases, MLFlow <br/>
-• Linux, Docker, Git, Airflow, Spark, Grafana, Prometheus <br/>
+• Linux, Docker, Airflow, Spark, Celery <br/>
 • Aws (S3, EC2, Lambda, DynamoDB) <br/>
-• FastAPI, Flask, Django, React <br/>
+• FastAPI, Flask, React <br/>
 • PostgreSQL, Elasticsearch, SQLite, Redis <br/>
 
 ➡️  I also emphasize on: <br/>
 • business strategy <br/>
-• project planning <br/>
-• project management <br/>
+• project planning & management <br/>
 • mentoring <br/>
 
 .
