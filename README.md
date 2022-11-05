@@ -1,6 +1,6 @@
 # 🤖 Paul Iusztin
 
-**`Senior Machine Learning Engineer ~ Engineering scalable infrastructure and machine learning solutions.`**
+**`Senior Machine Learning Software Engineer • Computer Vision • Tabular Data • MLOps • Contractor • Freelancer ~ Engineering end-to-end machine learning solutions.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
