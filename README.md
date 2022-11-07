@@ -82,7 +82,7 @@ I have fun organizing, planning, and maintaining clean software solutions. I enj
 • Numpy, Pandas, OpenCV, CUDA, Matplotlib <br/>
 • ClearML, DVC, Weights & Biases, MLFlow <br/>
 • Linux, Docker, Airflow, Spark, Celery <br/>
-• Aws (S3, EC2, Lambda, DynamoDB) <br/>
+• AWS (S3, EC2, Lambda, DynamoDB) <br/>
 • FastAPI, Flask, React <br/>
 • PostgreSQL, Elasticsearch, SQLite, Redis <br/>
 
@@ -128,7 +128,7 @@ I have fun organizing, planning, and maintaining clean software solutions. I enj
 <br/>
 <br/>
 
-**Support my work by** joining Medium through my [referral link](https://medium.com/membership/@pauliusztin) or [buying me a coffee](https://www.buymeacoffee.com/pauliusztin).
+You can **support my work by** joining Medium through my [referral link](https://medium.com/membership/@pauliusztin) or [buying me a coffee](https://www.buymeacoffee.com/pauliusztin).
 
 <br/>
 
