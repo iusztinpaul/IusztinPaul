@@ -12,11 +12,11 @@
 
 ⭐ My mission is to create innovative products that add value to the world by bringing machine learning to production.
 
-My passion is to master the craft of building large ML solutions and scalable data infrastructure that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐝𝐞𝐩𝐥𝐨𝐲, and 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐀𝐈 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 for your business.
+My passion is to master the craft of building large ML solutions and scalable data infrastructure that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐝𝐞𝐩𝐥𝐨𝐲, and 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐀𝐈 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 for your business.
 <br/><br/>
 My main areas of expertise are 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐭𝐚𝐛𝐮𝐥𝐚𝐫 𝐝𝐚𝐭𝐚), and 𝐌𝐋𝐎𝐩𝐬.
 <br/><br/>
-I have fun planning and maintaining clean software systems. I enjoy collaborating with international teams and mentoring juniors. Also, I emphasize understanding business stakeholders' needs to deliver machine learning solutions that directly impact your company.
+I have fun planning and maintaining clean software systems. I enjoy collaborating with international teams and mentoring juniors. Also, I emphasize understanding business stakeholders' needs to deliver machine learning algorithms that directly impact your company.
 <br/>
 
 🌎 Interested in **remote work**.
