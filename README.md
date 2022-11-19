@@ -10,13 +10,13 @@
 
 💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
-⭐ By following my curiosity, my mission is to build machine learning products that add value to the world.
+⭐ My mission is to create innovative products that add value to the world by bringing machine learning to production.
 
-My passion is to master the craft of building large ML systems and high-quality infrastructure that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐝𝐞𝐩𝐥𝐨𝐲, and 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐀𝐈 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 for your business.
+My passion is to master the craft of building large ML solutions and scalable data infrastructure that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐝𝐞𝐩𝐥𝐨𝐲, and 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐀𝐈 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 for your business.
 <br/><br/>
-My main areas of expertise are 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐭𝐚𝐛𝐮𝐥𝐚𝐫 𝐝𝐚𝐭𝐚 & 𝐭𝐢𝐦𝐞 𝐬𝐞𝐫𝐢𝐞𝐬), and 𝐌𝐋𝐎𝐩𝐬.
+My main areas of expertise are 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐭𝐚𝐛𝐮𝐥𝐚𝐫 𝐝𝐚𝐭𝐚), and 𝐌𝐋𝐎𝐩𝐬.
 <br/><br/>
-I have fun organizing, planning, and maintaining clean software solutions. I enjoy collaborating with multi-functional teams and mentoring juniors. Also, I emphasize understanding the needs of business stakeholders to deliver machine learning systems that directly impact your company.
+I have fun planning and maintaining clean software systems. I enjoy collaborating with international teams and mentoring juniors. Also, I emphasize understanding business stakeholders' needs to deliver machine learning solutions that directly impact your company.
 <br/>
 
 🌎 Interested in **remote work**.
