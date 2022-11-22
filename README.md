@@ -72,7 +72,7 @@ I have fun planning and maintaining clean software systems. I enjoy collaboratin
 | experiment tracking | code, model & data versioning | continuous training & monitoring | model serving |<br/>
 
 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:<br/>
-| RESTful web APIs | cloud architecture | microservices | distributed systems | unit testing | OOP | SOLID | DRY | clean code & architecture | dashboards |<br/>
+| RESTful web APIs | cloud architecture | microservices | distributed systems | unit testing | OOP | SOLID | DRY | clean code & architecture | CI/CD |<br/>
 
 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:<br/>
 | portfolio optimization | order execution |<br/>
