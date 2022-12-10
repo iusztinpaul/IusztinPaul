@@ -112,7 +112,7 @@ I have fun planning and maintaining clean software systems. I enjoy collaboratin
 <a href="https://pauliusztin.medium.com/subscribe">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/medium.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/medium.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./images/medium_light.svg">
       <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/medium.svg">
     </picture>
 </a>
