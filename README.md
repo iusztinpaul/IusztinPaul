@@ -109,7 +109,7 @@ I have fun planning and maintaining clean software systems. I enjoy collaboratin
     </picture>
 </a>
 &nbsp;&nbsp
-<a href="https://medium.com/@pauliusztin">
+<a href="https://pauliusztin.medium.com/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/medium.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/medium_light.svg">
