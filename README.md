@@ -54,8 +54,6 @@ I am currently working as a contractor at CoreAI, where I am leading the develop
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 ➡️ Programming languages: <br/>
 • Python, SQL <br/>
