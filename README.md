@@ -1,6 +1,6 @@
 # 🤖 Paul Iusztin
 
-**`Senior Machine Learning Software Engineer • Contractor ~ Engineering end-to-end machine learning solutions.`**
+**`Senior Full Stack Machine Learning Engineer • Contractor ~ Engineering production-ready machine learning systems.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
