@@ -8,15 +8,13 @@
 
 ### About Me
 
-💼 Senior machine learning and MLOps engineer, contractor, consultant, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
+I am a senior machine learning & MLOps engineer, contractor, and freelancer with 𝟓+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞.
 
-⭐ My mission is to create innovative products that add value to the world by bringing machine learning to production.
+⭐ My mission is to create innovative data-centric products that add value to the world by leveraging AI.
 
-My passion is to master the craft of building large ML solutions and scalable data infrastructure that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can 𝐚𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭, 𝐛𝐮𝐢𝐥𝐝, 𝐝𝐞𝐩𝐥𝐨𝐲, and 𝐦𝐨𝐧𝐢𝐭𝐨𝐫 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧-𝐫𝐞𝐚𝐝𝐲 𝐀𝐈 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 for your business.
+I am passionate about designing and implementing highly scalable AI/ML systems that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can research, architect, build, deploy, and monitor clean artificial intelligence solutions that directly impact your business.
 <br/><br/>
-My main areas of expertise are 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧, 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐭𝐚𝐛𝐮𝐥𝐚𝐫 𝐝𝐚𝐭𝐚), and 𝐌𝐋𝐎𝐩𝐬.
-<br/><br/>
-I have fun planning and maintaining clean software systems. I enjoy collaborating with international teams and mentoring juniors. Also, I emphasize understanding business stakeholders' needs to deliver machine learning algorithms that directly impact your company.
+I am currently working as a contractor at CoreAI, where I am leading the development of their internal MLOps infrastructure and developing a real-time recommendation system on top of a Kafka nervous center. Also, I work on a continuous learning ML step-by-step course that I plan to release on Medium's TDS publication and teach the AI laboratory at the university.
 <br/>
 
 🌎 Interested in **remote work**.
@@ -27,7 +25,7 @@ I have fun planning and maintaining clean software systems. I enjoy collaboratin
 
 -----
 
-### Services
+### About my primary skills
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
@@ -59,37 +57,52 @@ I have fun planning and maintaining clean software systems. I enjoy collaboratin
 <br/>
 <br/>
 
-➡️ Programming languages:  Python, SQL, Bash, Node.js, C++
+➡️ Programming languages:
+• Python, SQL
+• C++, Node.js, Java
 
-➡️ My core skills are: <br/>
-𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:<br/>
-| supervised & unsupervised techniques | forecasting, regression & classification | data cleaning, visualization & analysis  | recommendation systems | A/B testing | tabular data & time series |<br/>
 
-𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧:<br/>
-| object detection & segmentation | tracking | image retrieval | depth estimation & completion | images, videos & point clouds (LiDAR, Radar) |<br/>
 
-𝐌𝐋𝐎𝐩𝐬:<br/>
-| experiment tracking | code, model & data versioning | continuous training & monitoring | model serving |<br/>
+➡️ Technologies:
+• PyTorch, Scikit-Learn, Keras
+• NumPy, Pandas, OpenCV, CUDA
+• AWS, GCP
+• Docker, TensorRT, Airflow, Spark, Kafka
+• FastAPI, Flask, React
+• ClearML, DVC, Weights & Biases, MLFlow
 
-𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠:<br/>
-| RESTful web APIs | cloud architecture | microservices | distributed systems | unit testing | OOP | SOLID | DRY | clean code & architecture | CI/CD |<br/>
 
-𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠:<br/>
-| portfolio optimization | order execution |<br/>
 
-➡️ Technologies: <br/>
-• Pytorch, Scikit-learn (Sklearn), Keras <br/>
-• Numpy, Pandas, OpenCV, CUDA, Matplotlib <br/>
-• ClearML, DVC, Weights & Biases, MLFlow <br/>
-• Linux, Docker, Airflow, Spark, Celery <br/>
-• AWS (S3, EC2, Lambda, DynamoDB) <br/>
-• FastAPI, Flask, React <br/>
-• PostgreSQL, Elasticsearch, SQLite, Redis <br/>
+➡️ MLOps:
+• batch & online serving
+• code, model & data versioning
+• feature & model store
+• continuous training & monitoring
+• orchestration
 
-➡️  I also emphasize on: <br/>
-• business strategy <br/>
-• project planning & management <br/>
-• mentoring <br/>
+
+
+➡️ Machine Learning & Data Science:
+• modeling structured data: tabular & time series
+• recommendation systems
+• demand forecasting
+• churn prediction
+
+
+
+➡️ Deep Learning & Computer Vision:
+• algorithms for unstructured data: images, videos & point clouds (LiDAR, Radar)
+• object detection & segmentation
+• tracking
+• image retrieval
+
+
+
+➡️ Software Architecture:
+• SOLID
+• REST API design
+• cloud & microservices
+• distributed systems
 
 .
 
