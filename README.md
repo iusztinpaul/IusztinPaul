@@ -63,46 +63,46 @@ I am currently working as a contractor at CoreAI, where I am leading the develop
 
 
 
-➡️ Technologies:
-• PyTorch, Scikit-Learn, Keras
-• NumPy, Pandas, OpenCV, CUDA
-• AWS, GCP
-• Docker, TensorRT, Airflow, Spark, Kafka
-• FastAPI, Flask, React
-• ClearML, DVC, Weights & Biases, MLFlow
+➡️ Technologies: <br/> 
+• PyTorch, Scikit-Learn, Keras <br/>
+• NumPy, Pandas, OpenCV, CUDA <br/>
+• AWS, GCP <br/>
+• Docker, TensorRT, Airflow, Spark, Kafka <br/>
+• FastAPI, Flask, React <br/>
+• ClearML, DVC, Weights & Biases, MLFlow <br/>
 
 
 
-➡️ MLOps:
-• batch & online serving
-• code, model & data versioning
-• feature & model store
-• continuous training & monitoring
-• orchestration
+➡️ MLOps: <br/>
+• batch & online serving <br/>
+• code, model & data versioning <br/>
+• feature & model store <br/>
+• continuous training & monitoring <br/>
+• orchestration <br/>
 
 
 
-➡️ Machine Learning & Data Science:
-• modeling structured data: tabular & time series
-• recommendation systems
-• demand forecasting
-• churn prediction
+➡️ Machine Learning & Data Science: <br/>
+• modeling structured data: tabular & time series <br/>
+• recommendation systems <br/>
+• demand forecasting <br/>
+• churn prediction <br/>
 
 
 
-➡️ Deep Learning & Computer Vision:
-• algorithms for unstructured data: images, videos & point clouds (LiDAR, Radar)
-• object detection & segmentation
-• tracking
-• image retrieval
+➡️ Deep Learning & Computer Vision: <br/>
+• algorithms for unstructured data: images, videos & point clouds (LiDAR, Radar) <br/>
+• object detection & segmentation <br/>
+• tracking <br/>
+• image retrieval <br/>
 
 
 
-➡️ Software Architecture:
-• SOLID
-• REST API design
-• cloud & microservices
-• distributed systems
+➡️ Software Architecture: <br/>
+• SOLID <br/>
+• REST API design <br/>
+• cloud & microservices <br/>
+• distributed systems <br/>
 
 .
 
