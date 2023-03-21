@@ -137,7 +137,7 @@ I am currently working as a contractor at CoreAI, where I am leading the develop
 <br/>
 <br/>
 
-You can **support my work** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin) or [buying me a coffee](https://www.buymeacoffee.com/pauliusztin).
+You can **support my work** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin) or by [buying me a coffee](https://www.buymeacoffee.com/pauliusztin).
 
 <br/>
 
