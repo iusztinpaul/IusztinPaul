@@ -19,9 +19,9 @@ I am currently working as a contractor at CoreAI, where I am leading the develop
 
 🌎 Only open to full remote positions as a contractor.
 
-✒️ **Documenting and sharing** my machine learning engineer and MLOps journey on [Medium](https://pauliusztin.medium.com/).
-
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
+
+##### ✒️ **Documenting and sharing** my machine learning engineer and MLOps journey on [Medium](https://pauliusztin.medium.com/).
 
 -----
 
