@@ -8,18 +8,18 @@
 
 ### About Me
 
-I am a senior machine learning & MLOps engineer, contractor, and freelancer with **5+ years of experience**.
+I am a senior machine learning engineer, contractor, and freelancer with **5+ years of experience**.
 
 ⭐ My mission is to create innovative data-centric products that add value to the world by leveraging AI.
 
-I am passionate about designing and implementing highly scalable AI/ML systems that can serve people worldwide. With my extensive background in machine learning, software engineering, and mathematics, I can research, architect, build, deploy, and monitor clean artificial intelligence solutions that directly impact your business.
+I am passionate about designing and implementing highly scalable AI/ML systems following MLOps good practices. With my extensive background in machine learning, software engineering, and mathematics, I can research, architect, build, deploy, and monitor clean artificial intelligence solutions that directly impact your business.
 <br/><br/>
 I am currently working as a contractor at CoreAI, where I am leading the development of their internal MLOps infrastructure and developing a real-time recommendation system on top of a Kafka nervous center. Also, I work on a continuous learning ML step-by-step course that I plan to release on Medium's TDS publication and teach the AI laboratory at the university.
 <br/>
 
 🌎 Only open to full remote positions as a contractor.
 
-✒️ **Documenting and sharing** my machine learning, MLOps, and freelancing journey on [Medium](https://pauliusztin.medium.com/).
+✒️ **Documenting and sharing** my machine learning engineer and MLOps journey on [Medium](https://pauliusztin.medium.com/).
 
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
 
