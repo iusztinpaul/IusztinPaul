@@ -92,7 +92,7 @@ If you are curious about machine learning engineering, follow me on [LinkedIn](h
 
 .
 
-`💬 Do you need machine learning solutions for your business? **Let's discuss**!`
+**`💬 Do you need machine learning solutions for your business? Let's discuss!`**
 
 .
 
