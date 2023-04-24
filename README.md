@@ -2,7 +2,7 @@
 
 ![Banner](/images/Banner.png)
 
-**`Senior Full Stack Machine Learning Engineer • Contractor ~ Engineering production-ready machine learning systems.`**
+**`Senior Full Stack Machine Learning Engineer • Contractor ~ Helping startups engineer production-ready ML/AI systems.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
@@ -10,20 +10,24 @@
 
 ### About Me
 
-I am a senior machine learning engineer, contractor, and freelancer with **5+ years of experience**.
+I am a senior machine learning engineer and contractor with **5+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups worldwide. 
 
-⭐ My mission is to create innovative data-centric products that add value to the world by leveraging AI.
+⭐ My mission is to build data-intensive AI/ML systems that innovate the world.<br/>
 
-I am passionate about designing and implementing highly scalable AI/ML systems following MLOps good practices. With my extensive background in machine learning, software engineering, and mathematics, I can research, architect, build, deploy, and monitor clean artificial intelligence solutions that directly impact your business.
-<br/><br/>
-I am currently working as a contractor at CoreAI, where I am leading the development of their internal MLOps infrastructure and developing a real-time recommendation system on top of a Kafka nervous center. Also, I work on a continuous learning ML step-by-step course that I plan to release on Medium's TDS publication and teach the AI laboratory at the university.
+I am passionate about designing and implementing scalable and modular AI/ML systems using MLOps good practices. With my extensive background in machine learning, software engineering, and mathematics, I can research, architect, build, deploy, test, and monitor clean artificial intelligence solutions that directly impact your business.
 <br/>
 
-🌎 Only open to full remote positions as a contractor.
+🌎 Only open to full remote positions as a contractor.<br/>
 
 🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
 
-##### ✒️  **Documenting** my journey about taking ML systems into production on [Medium](https://pauliusztin.medium.com/) and [LinkedIn](https://www.linkedin.com/in/pauliusztin/).
+------
+
+Also, I help machine learning engineers level up through hands-on practical posts, articles, and tutorials on designing and productionizing ML systems.
+
+I am working on an end-to-end production-ready ML/MLOps system hands-on tutorial that I will release on Medium's TDS publication.
+
+If you are curious about machine learning engineering, follow me on [LinkedIn](https://www.linkedin.com/in/pauliusztin/), [Medium](https://pauliusztin.medium.com/), and GitHub.
 
 -----
 
@@ -56,18 +60,15 @@ I am currently working as a contractor at CoreAI, where I am leading the develop
 <br/>
 
 ➡️ Programming languages: <br/>
-• Python, SQL <br/>
-• C++, Node.js, Java <br/>
-
-
+• Python, SQL, C++, Java <br/>
 
 ➡️ Technologies: <br/> 
 • PyTorch, Scikit-Learn, Keras <br/>
 • NumPy, Pandas, OpenCV, CUDA <br/>
 • AWS, GCP <br/>
-• Docker, TensorRT, Airflow, Spark, Kafka <br/>
-• FastAPI, Flask, React <br/>
-• ClearML, DVC, Weights & Biases, MLFlow <br/>
+• Docker, FastAPI, Airflow, Kafka, Spark <br/>
+• DVC, Weights & Biases, MLFlow <br/>
+• PostgreSQL, Elasticsearch, Redis <br/>
 
 
 
@@ -80,31 +81,18 @@ I am currently working as a contractor at CoreAI, where I am leading the develop
 
 
 
-➡️ Machine Learning & Data Science: <br/>
-• modeling structured data: tabular & time series <br/>
-• recommendation systems <br/>
-• demand forecasting <br/>
-• churn prediction <br/>
-
-
-
-➡️ Deep Learning & Computer Vision: <br/>
-• algorithms for unstructured data: images, videos & point clouds (LiDAR, Radar) <br/>
-• object detection & segmentation <br/>
-• tracking <br/>
-• image retrieval <br/>
-
-
-
-➡️ Software Architecture: <br/>
-• SOLID <br/>
-• REST API design <br/>
+➡️ Machine Learning Engineering: <br/>
+• structured data: tabular & time series <br/>
+• unstructured data: images, videos & point clouds <br/>
+• deep learning <br/>
+• classic ML <br/>
+• REST API, gRPC & streaming design <br/>
 • cloud & microservices <br/>
 • distributed systems <br/>
 
 .
 
-`💬 Do you need machine learning solutions for your business? 𝐋𝐞𝐭'𝐬 𝐝𝐢𝐬𝐜𝐮𝐬𝐬!`
+`💬 Do you need machine learning solutions for your business? **Let's discuss**!`
 
 .
 
@@ -139,9 +127,14 @@ I am currently working as a contractor at CoreAI, where I am leading the develop
 <br/>
 <br/>
 
-You can **support my work** by joining Medium through my [referral link](https://medium.com/membership/@pauliusztin) or by [buying me a coffee](https://www.buymeacoffee.com/pauliusztin).
 
-<br/>
+-----
+
+Creating this helpful content takes me a lot of time. Thus, if you enjoyed my articles, you can support me to keep making awesome stuff by:
+- [Joining Medium through my referral link](https://medium.com/membership/@pauliusztin)
+- [Buying me a coffee](https://www.buymeacoffee.com/pauliusztin)
+
+<br/>Thank you!<br/>
 
 -----
 
