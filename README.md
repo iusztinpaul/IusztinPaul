@@ -1,5 +1,7 @@
 # 🤖 Paul Iusztin
 
+![Banner](/images/Banner.png)
+
 **`Senior Full Stack Machine Learning Engineer • Contractor ~ Engineering production-ready machine learning systems.`**
 <br/>
 <br/>
