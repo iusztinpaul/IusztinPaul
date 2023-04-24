@@ -59,10 +59,10 @@ If you are curious about machine learning engineering, follow me on [LinkedIn](h
 <br/>
 <br/>
 
-➡️ Programming languages: <br/>
+⚫️ Programming languages: <br/>
 • Python, SQL, C++, Java <br/>
 
-➡️ Technologies: <br/> 
+⚫️ Technologies: <br/> 
 • PyTorch, Scikit-Learn, Keras <br/>
 • NumPy, Pandas, OpenCV, CUDA <br/>
 • AWS, GCP <br/>
@@ -72,7 +72,7 @@ If you are curious about machine learning engineering, follow me on [LinkedIn](h
 
 
 
-➡️ MLOps: <br/>
+🟡 MLOps: <br/>
 • batch & online serving <br/>
 • code, model & data versioning <br/>
 • feature & model store <br/>
@@ -81,7 +81,7 @@ If you are curious about machine learning engineering, follow me on [LinkedIn](h
 
 
 
-➡️ Machine Learning Engineering: <br/>
+⚫️ Machine Learning Engineering: <br/>
 • structured data: tabular & time series <br/>
 • unstructured data: images, videos & point clouds <br/>
 • deep learning <br/>
@@ -97,6 +97,8 @@ If you are curious about machine learning engineering, follow me on [LinkedIn](h
 .
 
 -----
+
+If you want to discuss geeky stuff about data, AI, or engineering 👇 <br/>
 
 ### Let's Connect:
 
