@@ -15,7 +15,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 **[◾️&nbsp;&nbsp;&nbsp;&nbsp;]** : My true passion is machine learning engineering <br/>
 **[◾️◾️&nbsp;&nbsp;&nbsp;]** : Secretly in love with software engineering <br/>
 **[◾️◾️◾️&nbsp;&nbsp;]** : I enjoy sharing my knowledge creating ML content <br/>
-**[◾️◾️◾️◾️&nbsp;&nbsp;&nbsp;]** : I am a blockchain and investing enthusiast <br/>
+**[◾️◾️◾️◾️&nbsp;&nbsp;&nbsp;&nbsp;]** : I am a blockchain and investing enthusiast <br/>
 **[◾️◾️◾️◾️◾️]** : Because I am not 100% a robot, I also enjoy self-development, psychology, cooking, hiking, skiing and of course cats. <br/>
 
 ⭐ My mission is to build data-intensive AI/ML systems that innovate the world.<br/>
