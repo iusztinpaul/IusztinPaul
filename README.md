@@ -12,13 +12,13 @@
 
 I am a senior machine learning engineer and contractor with **5+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups worldwide. 
 
-🔥 My true passion is machine learning engineering <br/>
+🔥 My true passion is machine learning engineering. <br/>
 
-💛 Secretly in love with software engineering <br/>
+💛 Secretly in love with software engineering. <br/>
 
-🎨 I enjoy sharing my knowledge through creating content about designing and productionizing ML systems<br/>
+🎨 I enjoy sharing my knowledge through creating content about designing and productionizing ML systems. <br/>
 
-🪙 I am a blockchain and investing enthusiast <br/>
+🪙 I am a blockchain and investing enthusiast. <br/>
 
 👱🏻 Because I am not 100% a robot, I am also excited about self-development, psychology, cooking, hiking, skiing and, of course, cats. <br/>
 
@@ -58,7 +58,7 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 <br/>
 <br/>
 
-My **number one** technologies:
+##### ⚫️ My **number one** technologies:
 • Python, SQL <br/>
 • PyTorch, Scikit-Learn <br/>
 • NumPy, Pandas <br/>
@@ -67,7 +67,7 @@ My **number one** technologies:
 • DVC, Weights & Biases, MLFlow <br/>
 • PostgreSQL, Elasticsearch, Redis <br/>
 
-My **number one** interests:
+##### ⚫️ My **number one** interests:
 • MLOps <br/>
 • generative AI <br/>
 • computer vision <br/>
