@@ -12,7 +12,7 @@
 
 I am a senior machine learning engineer and contractor with **5+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups worldwide. 
 
-**[-    ]** : My true passion is machine learning engineering <br/>
+**<pre>[-    ]</pre>** : My true passion is machine learning engineering <br/>
 **[--   ]** : Secretly in love with software engineering <br/>
 **[---  ]** : I enjoy sharing my knowledge creating ML content <br/>
 **[---- ]** : I am a blockchain and investing enthusiast <br/>
