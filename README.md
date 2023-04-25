@@ -56,7 +56,6 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 <br/>
 <br/>
 <br/>
-<br/>
 
 ##### ⚫️ My **top** technologies:
 • Python, SQL <br/>
