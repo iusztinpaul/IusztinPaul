@@ -58,7 +58,7 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 <br/>
 <br/>
 
-##### ⚫️ My **number one** technologies:
+##### ⚫️ My **top** technologies:
 • Python, SQL <br/>
 • PyTorch, Scikit-Learn <br/>
 • NumPy, Pandas <br/>
@@ -67,7 +67,7 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 • DVC, Weights & Biases, MLFlow <br/>
 • PostgreSQL, Elasticsearch, Redis <br/>
 
-##### ⚫️ My **number one** interests:
+##### ⚫️ My **top** interests:
 • MLOps <br/>
 • generative AI <br/>
 • computer vision <br/>
