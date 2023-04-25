@@ -2,7 +2,7 @@
 
 ![Banner](/images/Banner.png)
 
-**`Senior Full Stack Machine Learning Engineer • Contractor ~ Helping startups engineer production-ready ML/AI systems.`**
+**`Senior Machine Learning Engineer • MLOps • Contractor ~ Helping startups engineer production-ready ML/AI systems.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
