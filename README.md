@@ -24,7 +24,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 ------
 
-I am working on an end-to-end production-ready ML/MLOps system hands-on tutorial that I will release on Medium's TDS publication.
+**I am working on an end-to-end production-ready ML/MLOps system hands-on tutorial that I will release on Medium's TDS publication.**
 
 If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/in/pauliusztin/), [Medium](https://pauliusztin.medium.com/), and [GitHub](https://github.com/iusztinpaul/energy-forecasting).
 
