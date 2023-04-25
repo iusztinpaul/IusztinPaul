@@ -71,7 +71,6 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 • MLOps <br/>
 • generative AI <br/>
 • computer vision <br/>
-
 • batch & online serving <br/>
 • continuous training & monitoring <br/>
 • REST API, gRPC & streaming design <br/>
@@ -121,11 +120,11 @@ If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
 
 -----
 
-Creating this helpful content takes me a lot of time. Thus, if you enjoyed my articles, you can support me to keep making awesome stuff by:
+Creating content takes me a lot of time. Thus, if you enjoyed my work, you can support me to keep making awesome stuff by:
 - [Joining Medium through my referral link](https://medium.com/membership/@pauliusztin)
 - [Buying me a coffee](https://www.buymeacoffee.com/pauliusztin)
 
-<br/>Thank you!<br/>
+<br/>Thank you 🙏🏻 !<br/>
 
 -----
 
