@@ -12,11 +12,11 @@
 
 I am a senior machine learning engineer and contractor with **5+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups worldwide. 
 
-**[-&nbsp;&nbsp;&nbsp;&nbsp;]** : My true passion is machine learning engineering <br/>
-**[--&nbsp;&nbsp;&nbsp;]** : Secretly in love with software engineering <br/>
-**[---&nbsp;&nbsp;]** : I enjoy sharing my knowledge through creating about designing and productionizing ML systems<br/>
-**[----&nbsp;]** : I am a blockchain and investing enthusiast <br/>
-**[-----]** : Because I am not 100% a robot, I also enjoy self-development, psychology, cooking, hiking, skiing and of course cats. <br/>
+🔥 : My true passion is machine learning engineering <br/>
+💛 : Secretly in love with software engineering <br/>
+🎨 : I enjoy sharing my knowledge through creating about designing and productionizing ML systems<br/>
+🪙 : I am a blockchain and investing enthusiast <br/>
+👱🏻 : Because I am not 100% a robot, I also enjoy self-development, psychology, cooking, hiking, skiing and of course cats. <br/>
 
 ------
 
@@ -54,36 +54,26 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 <br/>
 <br/>
 
-⚫️ Programming languages: <br/>
-• Python, SQL, C++, Java <br/>
-
-⚫️ Technologies: <br/> 
-• PyTorch, Scikit-Learn, Keras <br/>
-• NumPy, Pandas, OpenCV, CUDA <br/>
+My **number one** technologies:
+• Python, SQL <br/>
+• PyTorch, Scikit-Learn <br/>
+• NumPy, Pandas <br/>
 • AWS, GCP <br/>
 • Docker, FastAPI, Airflow, Kafka, Spark <br/>
 • DVC, Weights & Biases, MLFlow <br/>
 • PostgreSQL, Elasticsearch, Redis <br/>
 
+My **number one** interests:
+• MLOps <br/>
+• generative AI <br/>
+• computer vision <br/>
 
-
-🟡 MLOps: <br/>
 • batch & online serving <br/>
-• code, model & data versioning <br/>
-• feature & model store <br/>
 • continuous training & monitoring <br/>
-• orchestration <br/>
-
-
-
-⚫️ Machine Learning Engineering: <br/>
-• structured data: tabular & time series <br/>
-• unstructured data: images, videos & point clouds <br/>
-• deep learning <br/>
-• classic ML <br/>
 • REST API, gRPC & streaming design <br/>
 • cloud & microservices <br/>
 • distributed systems <br/>
+
 
 .
 
@@ -93,7 +83,7 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 
 -----
 
-If you want to discuss geeky stuff about data, AI, or engineering 👇 <br/>
+If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
 
 ### Let's Connect:
 
