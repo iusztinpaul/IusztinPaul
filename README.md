@@ -14,26 +14,15 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 **[-&nbsp;&nbsp;&nbsp;&nbsp;]** : My true passion is machine learning engineering <br/>
 **[--&nbsp;&nbsp;&nbsp;]** : Secretly in love with software engineering <br/>
-**[---&nbsp;&nbsp;]** : I enjoy sharing my knowledge creating ML content <br/>
+**[---&nbsp;&nbsp;]** : I enjoy sharing my knowledge through creating about designing and productionizing ML systems<br/>
 **[----&nbsp;]** : I am a blockchain and investing enthusiast <br/>
 **[-----]** : Because I am not 100% a robot, I also enjoy self-development, psychology, cooking, hiking, skiing and of course cats. <br/>
 
-⭐ My mission is to build data-intensive AI/ML systems that innovate the world.<br/>
-
-I am passionate about designing and implementing scalable and modular AI/ML systems using MLOps good practices. With my extensive background in machine learning, software engineering, and mathematics, I can research, architect, build, deploy, test, and monitor clean artificial intelligence solutions that directly impact your business.
-<br/>
-
-🌎 Only open to full remote positions as a contractor.<br/>
-
-🚴🏼‍♂️ Along with machine learning, I keep my curiosity active with self-development, psychology, cooking, hiking, skiing, cats, finance, and blockchain.
-
 ------
-
-Also, I help machine learning engineers level up through hands-on practical posts, articles, and tutorials on designing and productionizing ML systems.
 
 I am working on an end-to-end production-ready ML/MLOps system hands-on tutorial that I will release on Medium's TDS publication.
 
-If you are curious about machine learning engineering, follow me on [LinkedIn](https://www.linkedin.com/in/pauliusztin/), [Medium](https://pauliusztin.medium.com/), and GitHub.
+If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/in/pauliusztin/), [Medium](https://pauliusztin.medium.com/), and [GitHub](https://github.com/iusztinpaul/energy-forecasting).
 
 -----
 
