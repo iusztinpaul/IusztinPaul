@@ -12,6 +12,12 @@
 
 I am a senior machine learning engineer and contractor with **5+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups worldwide. 
 
+[-    ] : My true passion is machine learning engineering
+[--   ] : Secretly in love with software engineering
+[---  ] : I enjoy sharing my knowledge creating ML content
+[---- ] : I am a blockchain and investing enthusiast
+[-----] : Because I am not 100% a robot, I also enjoy self-development, psychology, cooking, hiking, skiing and of course cats.
+
 ⭐ My mission is to build data-intensive AI/ML systems that innovate the world.<br/>
 
 I am passionate about designing and implementing scalable and modular AI/ML systems using MLOps good practices. With my extensive background in machine learning, software engineering, and mathematics, I can research, architect, build, deploy, test, and monitor clean artificial intelligence solutions that directly impact your business.
