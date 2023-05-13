@@ -66,6 +66,7 @@ If you don't want to miss it, follow me on [LinkedIn](https://www.linkedin.com/i
 • MLOps <br/>
 • generative AI <br/>
 • computer vision <br/>
+• recommender systems <br/>
 • batch & online serving <br/>
 • continuous training & monitoring <br/>
 • REST API, gRPC & streaming design <br/>
