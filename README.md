@@ -114,11 +114,11 @@ If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
 
 -----
 
-Creating content takes me a lot of time. Thus, if you enjoyed my work, you can support me to keep making awesome stuff by:
-- [Joining Medium through my referral link](https://medium.com/membership/@pauliusztin)
+Creating content takes me a lot of time. If you enjoyed my work, you could support me to keep making awesome stuff by:
+- [Joining Medium through my referral link](https://medium.com/membership/@pauliusztin) - It won't cost you additional $$$.
 - [Buying me a coffee](https://www.buymeacoffee.com/pauliusztin)
 
-<br/>Thank you 🙏🏻 !<br/>
+<br/>Thank you ✌🏼 !<br/>
 
 -----
 
