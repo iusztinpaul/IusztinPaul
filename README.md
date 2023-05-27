@@ -80,8 +80,6 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 -----
 
-If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
-
 ### Let's Connect:
 
 <a href="https://www.linkedin.com/in/pauliusztin">
@@ -109,8 +107,6 @@ If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
 </a>
 
 <br/>
-<br/>
-
 
 -----
 
