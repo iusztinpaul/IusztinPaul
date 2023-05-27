@@ -84,7 +84,7 @@ If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
 
 ### Let's Connect:
 
-<pre>        📘 LinkedIn      |      🖋️ Newsletter      |      💻 Medium      |      ✉️ Email      |      🐦 Twitter      </pre>
+<pre>        📘 [LinkedIn](https://www.linkedin.com/in/pauliusztin)      |      🖋️ Newsletter      |      💻 [Medium](https://pauliusztin.medium.com/)      |      ✉️ [Email](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Collaborations)      |      🐦 Twitter      </pre>
 
 <a href="https://www.linkedin.com/in/pauliusztin">
     <picture>
@@ -102,7 +102,7 @@ If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
     </picture>
 </a>
 &nbsp;&nbsp
-<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Consultations">
+<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Collaborations">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
       <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
