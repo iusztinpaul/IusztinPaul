@@ -84,7 +84,7 @@ If you want to discuss geeky topics about data, AI, or engineering 👇 <br/>
 
 ### Let's Connect:
 
-📘 LinkedIn | 🖋️ Newsletter | 💻 GitHub | ✉️ Email | 🐦 Twitter
+####   📘 LinkedIn    |    🖋️ Newsletter    |    💻 GitHub    |    ✉️ Email    |    🐦 Twitter
 
 <a href="https://www.linkedin.com/in/pauliusztin">
     <picture>
