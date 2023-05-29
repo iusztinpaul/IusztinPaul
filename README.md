@@ -83,27 +83,12 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 ### Let's Connect:
 
 
-[<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:10px;"/>](https://www.linkedin.com/in/pauliusztin)
-[<img alt="medium" width="40px" src="images/medium.png" align="left" style="padding-right:10px;"/>)](https://pauliusztin.medium.com/)
-[<img alt="substack" width="40px" src="images/substack.png" align="left" style="padding-right:10px;"/>](https://pauliusztin.substack.com/)
-[<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:10px;"/>](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML%20Collaborations)
+[<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/pauliusztin)
+[<img alt="medium" width="43px" src="images/medium.png" align="left" style="padding-right:20px;"/>)](https://pauliusztin.medium.com/)
+[<img alt="substack" width="38px" src="images/substack.png" align="left" style="padding-right:20px;"/>](https://pauliusztin.substack.com/)
+[<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:20px;"/>](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML%20Collaborations)
 
 
-<a href="https://pauliusztin.medium.com/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/medium.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/medium_light.svg">
-      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/medium.svg">
-    </picture>
-</a>
-&nbsp;&nbsp
-<a href="mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Collaborations">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/gmail.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/gmail_light.svg">
-      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/gmail.svg">
-    </picture>
-</a>
 
 <br/>
 
