@@ -82,7 +82,9 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 ### Let's Connect:
 
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="images/linkedin.png" href="https://www.linkedin.com/in/pauliusztin"/>
+<a href="href="https://www.linkedin.com/in/pauliusztin">
+  <img alt="linkedin" src="./images/linkedin.png">
+</a>
 
 <a href="https://www.linkedin.com/in/pauliusztin">
     <picture>
