@@ -84,8 +84,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 
 [<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:10px;"/>](https://www.linkedin.com/in/pauliusztin)
-[<img alt="medium" width="40px" src="images/medium_white.png#gh-dark-mode-only" align="left" style="padding-right:10px;"/>)](https://pauliusztin.medium.com/)
-[<img alt="medium" width="40px" src="images/medium.png#gh-light-mode-only" align="left" style="padding-right:10px;"/>)](https://pauliusztin.medium.com/)
+[<img alt="medium" width="40px" src="images/medium.png" align="left" style="padding-right:10px;"/>)](https://pauliusztin.medium.com/)
 [<img alt="substack" width="40px" src="images/substack.png" align="left" style="padding-right:10px;"/>](https://pauliusztin.substack.com/)
 [<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:10px;"/>](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML%20Collaborations)
 
