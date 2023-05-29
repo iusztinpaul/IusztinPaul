@@ -84,24 +84,15 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 
 [<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:10px;"/>](https://www.linkedin.com/in/pauliusztin)
+&nbsp;&nbsp
+[<img alt="medium" width="40px" src="images/medium.png" align="left" style="padding-right:10px;"/>](https://pauliusztin.medium.com/)
+&nbsp;&nbsp
+[<img alt="substack" width="40px" src="images/substack.png" align="left" style="padding-right:10px;"/>](https://pauliusztin.substack.com/)
+&nbsp;&nbsp
+[<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:10px;"/>](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Collaborations)
 
 
-<a href="https://www.linkedin.com/in/pauliusztin">
-    <picture>
-      <source srcset="./images/linkedin.png">
-      <img align="left" width="40px" alt="linkedin" style="padding-right:10px;" src="./images/linkedin.png">
-    </picture>
-</a>
 
-  
-
-<a href="https://www.linkedin.com/in/pauliusztin">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./images/linkedin.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./images/linkedin_light.svg">
-      <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="./images/linkedin.svg">
-    </picture>
-</a>
 &nbsp;&nbsp
 <a href="https://pauliusztin.medium.com/">
     <picture>
