@@ -89,7 +89,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 &nbsp;&nbsp
 [<img alt="substack" width="40px" src="images/substack.png" align="left" style="padding-right:10px;"/>](https://pauliusztin.substack.com/)
 &nbsp;&nbsp
-[<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:10px;"/>](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML Collaborations)
+[<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:10px;"/>](mailto:p.b.iusztin@gmail.com?subject=[FromGitHub]%20ML%20Collaborations)
 
 
 
