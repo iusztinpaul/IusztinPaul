@@ -24,7 +24,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 ------
 
-👉 Check out my **free MLE & MLOps course** [here](https://github.com/iusztinpaul/energy-forecasting), where you will learn how to build, train, serve, and monitor an ML model using a batch architecture.
+👉 Check out my free series : [**The Full Stack 7-Steps MLOps Framework**](https://github.com/iusztinpaul/energy-forecasting), where you will learn how to build, train, serve, and monitor an ML model using a batch architecture.
 
 -----
 
