@@ -95,7 +95,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 -----
 
-`🎨 Creating content takes me a lot of time. If you enjoyed my work, you could support me to keep making awesome stuff by:`
+`🎨 Creating content takes me a lot of time. If you enjoyed my work, you could support me by:`
 - [Joining Medium through my referral link](https://medium.com/membership/@pauliusztin) - It won't cost you any additional $$$.
 - [Buying me a coffee](https://www.buymeacoffee.com/pauliusztin)
 
