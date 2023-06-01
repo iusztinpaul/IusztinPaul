@@ -96,9 +96,6 @@ I post almost daily content on 👇🏼
 
 Subscribe to my [ML engineering weekly newsletter](https://pauliusztin.substack.com/).
 
-<br/>
-<br/>
-
 -----
 
 `🎨 Creating content takes me a lot of time. If you enjoyed my work, you could support me by:`
