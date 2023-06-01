@@ -80,7 +80,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 -----
 
-##### `Let's Connect if you want to level up in designing and productionizing ML systems`:
+#### `Let's Connect if you want to level up in designing and productionizing ML systems`:
 
 I post almost daily content on 👇🏼
 
@@ -90,10 +90,10 @@ I post almost daily content on 👇🏼
 [<img alt="gmail" width="40px" src="images/gmail.png" align="left" style="padding-right:20px;"/>](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
 [<img alt="twitter" width="40px" src="images/twitter.png" align="left" style="padding-right:20px;"/>](https://twitter.com/iusztinpaul)
 
+<br/>
+
 Subscribe to my [ML engineering weekly newsletter](https://pauliusztin.substack.com/).
 
-<br/>
-<br/>
 <br/>
 
 -----
