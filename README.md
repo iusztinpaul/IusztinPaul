@@ -80,7 +80,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 -----
 
-#### `Let's connect if you want to level up in designing and productionizing ML systems.`:
+#### Let's connect if you want to level up in designing and productionizing ML systems.:
 
 I post almost daily content on 👇🏼
 
