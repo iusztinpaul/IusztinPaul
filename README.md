@@ -92,9 +92,11 @@ I post almost daily content on 👇🏼
 
 <br/>
 <br/>
+<br/>
 
 Subscribe to my [ML engineering weekly newsletter](https://pauliusztin.substack.com/).
 
+<br/>
 <br/>
 
 -----
