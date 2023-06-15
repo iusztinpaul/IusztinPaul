@@ -53,21 +53,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 | ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
-| • Python, SQL <br/>
-• PyTorch, Scikit-Learn <br/>
-• NumPy, Pandas <br/>
-• AWS, GCP <br/>
-• Docker, FastAPI, Airflow, Kafka, Spark <br/>
-• DVC, Weights & Biases, MLFlow <br/>
-• PostgreSQL, Elasticsearch, Redis <br/> | • MLOps <br/>
-• generative AI <br/>
-• computer vision <br/>
-• recommender systems <br/>
-• batch & online serving <br/>
-• continuous training & monitoring <br/>
-• REST API, gRPC & streaming design <br/>
-• cloud & microservices <br/>
-• distributed systems <br/> |
+| • Python, SQL <br/> • PyTorch, Scikit-Learn <br/> • NumPy, Pandas <br/> • AWS, GCP <br/> • Docker, FastAPI, Airflow, Kafka, Spark <br/> • DVC, Weights & Biases, MLFlow <br/> • PostgreSQL, Elasticsearch, Redis <br/> | • MLOps <br/> • generative AI <br/> • computer vision <br/> • recommender systems <br/> • batch & online serving <br/> • continuous training & monitoring <br/> • REST API, gRPC & streaming design <br/> • cloud & microservices <br/> • distributed systems <br/> |
 
 .
 
