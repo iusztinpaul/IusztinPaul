@@ -53,7 +53,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 | ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
-| Python, SQL  | MLOps |
+| Python, SQL  |  . MLOps<br/> .fdfd |
 | PyTorch, Scikit-Learn  | generative AI |
 | NumPy, Pandas  | computer vision |
 | AWS, GCP  | recommender systems |
