@@ -86,9 +86,3 @@ Subscribe to my [ML engineering weekly newsletter](https://pauliusztin.substack.
 2. [**buying me a coffee.**](https://www.buymeacoffee.com/pauliusztin)
 
 <br/>Thank you ✌🏼 !<br/>
-
------
-
-<br/>
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=iusztinpaul&show_icons=true&theme=gruvbox)
