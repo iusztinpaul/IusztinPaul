@@ -20,7 +20,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 🪙 I am a blockchain and investing enthusiast. <br/>
 
-👱🏻 Because I am not 100% a robot, I am also excited about self-development, psychology, cooking, hiking, skiing and, of course, cats. <br/>
+👱🏻 Because I am not 100% a robot, I am also excited about self-development, psychology, cooking, hiking, skiing and my favorites 🐈‍⬛ cats. <br/>
 
 ------
 
