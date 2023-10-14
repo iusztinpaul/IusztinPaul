@@ -75,7 +75,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 <br/>
 <br/>
 
-↳ Subscribe to [my weekly newsletter: Decoding ML](https://pauliusztin.substack.com/).
+↳ Subscribe to [my weekly newsletter: Decoding ML](https://pauliusztin.substack.com/)
 
 -----
 
