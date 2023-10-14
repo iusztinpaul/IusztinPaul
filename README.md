@@ -63,7 +63,7 @@ I am a senior machine learning engineer and contractor with **5+ years of experi
 
 -----
 
-### Let's connect:
+### Let's connect ↓
 
 [<img alt="linkedin" width="40px" src="images/linkedin.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/pauliusztin)
 [<img alt="medium" width="40px" src="images/medium.png" align="left" style="padding-right:20px;"/>](https://pauliusztin.medium.com/)
