@@ -1,6 +1,6 @@
 # Paul Iusztin
 
-![banner](images/banner.png)
+![banner](./images/banner.png)
 
 **`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
 
@@ -29,7 +29,7 @@ What do I do?
     </td>
 </table>
 
-### Join for free at:
+### Join Decoding ML for free articles and code at:
 * [Weekly newsletter](https://decodingml.substack.com/)
 * [Blog](https://medium.com/decodingml)
 * [GitHub](https://github.com/decodingml)
@@ -44,6 +44,7 @@ What do I do?
 [<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
 [<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
 
+<br/>
 <br/>
 
 -----
