@@ -26,8 +26,8 @@
       </a>
     </td>
     <td>
-        <h1> Founder @ Decoding ML </h1>
-        <h2> → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. </h2>
+        <h2> Founder @ Decoding ML </h1>
+        <h3> → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. </h2>
     </td>
 </table>
 
