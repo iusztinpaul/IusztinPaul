@@ -31,7 +31,7 @@
     </td>
 </table>
 
-### Join Decoding ML for free content on production-grade AI, ML and MLOps at:
+### Join Decoding ML for free articles and tutorials on production-grade AI, ML and MLOps at:
 * [Weekly newsletter](https://decodingml.substack.com/)
 * [Blog](https://medium.com/decodingml)
 * [GitHub](https://github.com/decodingml)
