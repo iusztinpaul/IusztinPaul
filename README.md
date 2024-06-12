@@ -1,19 +1,19 @@
-# 🤖 Paul Iusztin
+# Paul Iusztin
 
-![Banner](/images/banner.png) CHANGE banner
+![Banner](images/banner.png)
 
 **`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
-I like to:
+What do I do?
 
 * Design and implement production AI/ML systems using MLOps best practices.
 
 * Teach people about the process.
 
--> More about me at https://pauliusztin.me.
+🔗 More about me at https://pauliusztin.me.
 
 ------
 
@@ -32,9 +32,9 @@ I like to:
   </tr>
 </table>
 
--> [Weekly newsletter](https://decodingml.substack.com/)
--> [Blog](https://medium.com/decodingml)
--> [GitHub](https://github.com/decodingml)
+* [Weekly newsletter](https://decodingml.substack.com/)
+* [Blog](https://medium.com/decodingml)
+* [GitHub](https://github.com/decodingml)
 
 -----
 
@@ -52,4 +52,4 @@ I like to:
 
 -----
 
-🎨 Creating content takes me a lot of time. If you enjoyed my work, consider supporting me by[**buying me a coffee.**](https://www.buymeacoffee.com/pauliusztin)
+🎨 Creating content takes me a lot of time. If you enjoyed my work, consider supporting me by [**buying me a coffee.**](https://www.buymeacoffee.com/pauliusztin)
