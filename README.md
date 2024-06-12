@@ -16,6 +16,8 @@
 
 🔗 More about me at https://pauliusztin.me.
 
+-----
+
 <table>
   <tr>
     <td>
