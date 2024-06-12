@@ -47,10 +47,10 @@
 [<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
 
 <br/>
+<br/>
 
 **Email:** p.b.iusztin@gmail.com
 
-<br/>
 <br/>
 
 -----
