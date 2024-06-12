@@ -26,14 +26,16 @@ What do I do?
     </td>
     <td>
     <h1> Founder @ Decoding ML </h1> </br>
-    → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems.
+    <h2> → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. </h2>
     </td>
   </tr>
-</table>
-
+  <tr>
+  Join for free at:
 * [Weekly newsletter](https://decodingml.substack.com/)
 * [Blog](https://medium.com/decodingml)
 * [GitHub](https://github.com/decodingml)
+  </tr>
+</table>
 
 -----
 
