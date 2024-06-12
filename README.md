@@ -46,10 +46,6 @@
 [<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
 [<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
 
-<div style="background-color: white; padding: 10px; display: inline-block;">
-  <img src="images/medium_512.png" alt="Banner" />
-</div>
-
 <br/>
 <br/>
 
