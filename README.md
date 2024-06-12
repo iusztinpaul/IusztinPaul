@@ -1,6 +1,6 @@
 # Paul Iusztin
 
-![Banner](images/banner.png)
+![banner](images/banner.png)
 
 **`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
 <br/>
@@ -25,7 +25,7 @@ What do I do?
       </a>
     </td>
     <td>
-    Founder @ Decoding ML </br>
+    <h1> Founder @ Decoding ML </h1> </br>
     → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems.
     </td>
   </tr>
