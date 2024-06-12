@@ -8,7 +8,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
-What do I do?
+### You have to know that I like to...
 
 * Design and implement production AI/ML systems using MLOps best practices.
 
