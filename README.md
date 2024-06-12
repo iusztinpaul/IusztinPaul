@@ -1,86 +1,55 @@
 # 🤖 Paul Iusztin
 
-![Banner](/images/Banner.png)
+![Banner](/images/banner.png) CHANGE banner
 
-**`Senior Machine Learning Engineer • MLOps • Contractor ~ Helping startups engineer production-ready ML/AI systems.`**
+**`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
 <br/>
 <br/>
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
+I like to:
 
-### About Me
+* Design and implement production AI/ML systems using MLOps best practices.
 
-I am a senior machine learning engineer and contractor with **5+ years of experience**. I design and implement modular, scalable, and production-ready machine learning systems for startups worldwide. 
+* Teach people about the process.
 
-🔥 My true passion is machine learning engineering. <br/>
-
-💛 Secretly in love with software engineering. <br/>
-
-🎨 I enjoy sharing my knowledge through creating content about designing and productionizing ML systems. <br/>
-
-🪙 I am a blockchain and investing enthusiast. <br/>
-
-👱🏻 Because I am not 100% a robot, I am also excited about self-development, psychology, cooking, hiking, skiing and my favorites 🐈‍⬛ cats. <br/>
+-> More about me at https://pauliusztin.me.
 
 ------
 
-👉 Check out [**The Full Stack 7-Steps MLOps Framework**](https://github.com/iusztinpaul/energy-forecasting) **hands-on free course**, where you will learn how to design, train, serve, and monitor an end-to-end ML batch system ~ *source code + 2.5 hours of reading & video materials*.
+<table>
+  <tr>
+    <td>
+      <a href="https://linktr.ee/decodingml">
+        <img src="images/dml_1500.png" alt="DML Logo" width="150"/>
+      </a>
+    </td>
+    <td>
+      Founder @ Decoding ML
+
+      -> A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems.
+    </td>
+  </tr>
+</table>
+
+-> [Weekly newsletter](https://decodingml.substack.com/)
+-> [Blog](https://medium.com/decodingml)
+-> [GitHub](https://github.com/decodingml)
 
 -----
 
-### About my primary skills
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-
-<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
-<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="Redis" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-
-<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
-
-<br/>
-<br/>
-<br/>
-
-| ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
-|---------------|--------------|
-| • Python, SQL <br/> • PyTorch, Scikit-Learn <br/> • NumPy, Pandas <br/> • AWS, GCP <br/> • Docker, FastAPI, Airflow, Kafka, Spark <br/> • DVC, Weights & Biases, MLFlow <br/> • PostgreSQL, Elasticsearch, Redis <br/> | • MLOps <br/> • generative AI <br/> • computer vision <br/> • recommender systems <br/> • batch & online serving <br/> • continuous training & monitoring <br/> • REST API, gRPC & streaming design <br/> • cloud & microservices <br/> • distributed systems <br/> |
-
-.
-
-**`💬 Do you need machine learning solutions for your business? Let's discuss!`**
-
-.
-
------
-
-### Let's connect ↓
+### Socials
 
 [<img alt="gmail" width="40px" src="images/gmail_512.png" align="left" style="padding-right:20px;"/>](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
 [<img alt="medium" width="40px" src="images/medium_512.png" align="left" style="padding-right:20px;"/>](https://pauliusztin.medium.com/)
 [<img alt="linkedin" width="40px" src="images/linkedin_512.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/pauliusztin)
-[<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://twitter.com/iusztinpaul)
+[<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
 [<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
 
 <br/>
 <br/>
 <br/>
 
-↳ Subscribe to [my weekly newsletter: Decoding ML](https://pauliusztin.substack.com/)
-
 -----
 
-`🎨 Creating content takes me a lot of time. If you enjoyed my work, you could support me by:`
-1. **joining Medium** through [**my referral link**](https://medium.com/membership/@pauliusztin), you can support me without any extra cost while enjoying limitless access to Medium’s rich collection of stories;
-2. [**buying me a coffee.**](https://www.buymeacoffee.com/pauliusztin)
-
-<br/>Thank you ✌🏼 !<br/>
+🎨 Creating content takes me a lot of time. If you enjoyed my work, consider supporting me by[**buying me a coffee.**](https://www.buymeacoffee.com/pauliusztin)
