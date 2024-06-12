@@ -22,7 +22,7 @@
   <tr>
     <td>
       <a href="https://linktr.ee/decodingml">
-        <img src="images/dml_1500.png" alt="DML Logo" width="150px"/>
+        <img src="images/dml_1500.png" alt="DML Logo" width="200px"/>
       </a>
     </td>
     <td>
@@ -31,7 +31,7 @@
     </td>
 </table>
 
-#### Join Decoding ML for free content on production-grade AI, ML and MLOps at:
+### Join Decoding ML for free content on production-grade AI, ML and MLOps at:
 * [Weekly newsletter](https://decodingml.substack.com/)
 * [Blog](https://medium.com/decodingml)
 * [GitHub](https://github.com/decodingml)
