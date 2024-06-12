@@ -5,6 +5,7 @@
 **`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
 <br/>
 <br/>
+
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
 What do I do?
@@ -28,16 +29,12 @@ What do I do?
         <h1> Founder @ Decoding ML </h1>
         <h2> → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. </h2>
     </td>
-  </tr>
-  <tr>
-    <td>
-        Join for free at:
-        * [Weekly newsletter](https://decodingml.substack.com/)
-        * [Blog](https://medium.com/decodingml)
-        * [GitHub](https://github.com/decodingml)
-    </td>
-  </tr>
 </table>
+
+### Join for free at:
+* [Weekly newsletter](https://decodingml.substack.com/)
+* [Blog](https://medium.com/decodingml)
+* [GitHub](https://github.com/decodingml)
 
 -----
 
