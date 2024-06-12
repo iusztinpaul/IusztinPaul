@@ -3,7 +3,7 @@
 ![banner](images/banner.png)
 
 **`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
-<br/>
+
 <br/>
 
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
@@ -15,8 +15,6 @@ What do I do?
 * Teach people about the process.
 
 🔗 More about me at https://pauliusztin.me.
-
-------
 
 <table>
   <tr>
@@ -46,8 +44,6 @@ What do I do?
 [<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
 [<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
 
-<br/>
-<br/>
 <br/>
 
 -----
