@@ -31,7 +31,7 @@
     </td>
 </table>
 
-### Join Decoding ML for free articles and code at:
+### Join Decoding ML for free content on production-grade AI, ML and MLOps at:
 * [Weekly newsletter](https://decodingml.substack.com/)
 * [Blog](https://medium.com/decodingml)
 * [GitHub](https://github.com/decodingml)
@@ -45,6 +45,10 @@
 [<img alt="linkedin" width="40px" src="images/linkedin_512.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/pauliusztin)
 [<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
 [<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
+
+<div style="background-color: white; padding: 10px; display: inline-block;">
+  <img src="https://pauliusztin.medium.com/" alt="Banner" />
+</div>
 
 <br/>
 <br/>
