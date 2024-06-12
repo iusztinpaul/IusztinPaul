@@ -25,15 +25,17 @@ What do I do?
       </a>
     </td>
     <td>
-    <h1> Founder @ Decoding ML </h1> </br>
-    <h2> → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. </h2>
+        <h1> Founder @ Decoding ML </h1>
+        <h2> → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. </h2>
     </td>
   </tr>
   <tr>
-  Join for free at:
-* [Weekly newsletter](https://decodingml.substack.com/)
-* [Blog](https://medium.com/decodingml)
-* [GitHub](https://github.com/decodingml)
+    <td>
+        Join for free at:
+        * [Weekly newsletter](https://decodingml.substack.com/)
+        * [Blog](https://medium.com/decodingml)
+        * [GitHub](https://github.com/decodingml)
+    </td>
   </tr>
 </table>
 
