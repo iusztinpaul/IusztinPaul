@@ -25,9 +25,8 @@ What do I do?
       </a>
     </td>
     <td>
-      Founder @ Decoding ML
-
-      -> A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems.
+    Founder @ Decoding ML </br>
+    → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems.
     </td>
   </tr>
 </table>
