@@ -47,7 +47,7 @@
 [<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
 
 <div style="background-color: white; padding: 10px; display: inline-block;">
-  <img src="https://pauliusztin.medium.com/" alt="Banner" />
+  <img src="images/medium_512.png" alt="Banner" />
 </div>
 
 <br/>
