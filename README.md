@@ -18,6 +18,22 @@
 
 -----
 
+### Socials
+
+[<img alt="gmail" width="40px" src="images/gmail_512.png" align="left" style="padding-right:20px;"/>](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
+[<img alt="medium" width="40px" src="images/medium_512.png" align="left" style="padding-right:20px;"/>](https://pauliusztin.medium.com/)
+[<img alt="linkedin" width="40px" src="images/linkedin_512.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/pauliusztin)
+[<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
+[<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
+
+<br/>
+<br/>
+<br/>
+
+**Email:** p.b.iusztin@gmail.com
+
+-----
+
 <table>
   <tr>
     <td>
@@ -35,22 +51,6 @@
 * [Weekly newsletter](https://decodingml.substack.com/)
 * [Blog](https://medium.com/decodingml)
 * [GitHub](https://github.com/decodingml)
-
------
-
-### Socials
-
-[<img alt="gmail" width="40px" src="images/gmail_512.png" align="left" style="padding-right:20px;"/>](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
-[<img alt="medium" width="40px" src="images/medium_512.png" align="left" style="padding-right:20px;"/>](https://pauliusztin.medium.com/)
-[<img alt="linkedin" width="40px" src="images/linkedin_512.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/pauliusztin)
-[<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
-[<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
-
-<br/>
-<br/>
-<br/>
-
-**Email:** p.b.iusztin@gmail.com
 
 -----
 
