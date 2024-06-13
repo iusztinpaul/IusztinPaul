@@ -18,7 +18,7 @@
 
 -----
 
-### Socials
+## Socials
 
 [<img alt="gmail" width="40px" src="images/gmail_512.png" align="left" style="padding-right:20px;"/>](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
 [<img alt="medium" width="40px" src="images/medium_512.png" align="left" style="padding-right:20px;"/>](https://pauliusztin.medium.com/)
@@ -47,7 +47,7 @@
     </td>
 </table>
 
-### Join Decoding ML for free articles and tutorials on production-grade AI, ML and MLOps at:
+### [Join Decoding ML](https://linktr.ee/decodingml) for free articles and tutorials on production-grade AI, ML and MLOps at:
 * [Weekly newsletter](https://decodingml.substack.com/)
 * [Blog](https://medium.com/decodingml)
 * [GitHub](https://github.com/decodingml)
