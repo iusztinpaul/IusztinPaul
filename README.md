@@ -2,7 +2,7 @@
 
 ![banner](./images/banner.png)
 
-**`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
+**`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Courses and articles about building production-grade ML/AI systems.`**
 
 <br/>
 
