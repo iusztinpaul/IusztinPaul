@@ -14,7 +14,7 @@
 
 * Teach people about the process.
 
-🔗 More about me at https://pauliusztin.me.
+🔗 More about me at https://pauliusztin.me
 
 -----
 
