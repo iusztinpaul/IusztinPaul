@@ -42,7 +42,7 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
     <td width="70%">
       <div>
         <h2>Founder @ Decoding ML</h2>
-        <p>A channel for proven content on designing, coding, and deploying production-grade AI, GenAI, and information retrieval systems -- built with ML systems, MLE, and MLOps best practices.</p>
+        <p>A channel for proven content on designing, coding, and deploying production-grade AI, GenAI, and information retrieval systems - built with ML systems, MLE, and MLOps best practices.</p>
       </div>
     </td>
   </tr>
