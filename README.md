@@ -45,16 +45,14 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
     </td>
 </table>
 
-## 📚 Join the Decoding ML Community
+## 🗞️ Join Decoding ML
 
-<p align="center">
-  <a href="https://decodingml.substack.com/">
-    <img src="https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black" alt="Newsletter"/>
-  </a>
-  <a href="https://decodingml.substack.com/">
-    <img src="https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black" alt="Blog"/>
-  </a>
-  <a href="https://github.com/decodingml">
-    <img src="https://img.shields.io/static/v1?label&logo=github&message=GitHub&style=for-the-badge&color=black" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://decodingml.substack.com/">
+  <img src="https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black" alt="Newsletter"/>
+</a>
+<a href="https://decodingml.substack.com/">
+  <img src="https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black" alt="Blog"/>
+</a>
+<a href="https://github.com/decodingml">
+  <img src="https://img.shields.io/static/v1?label&logo=github&message=GitHub&style=for-the-badge&color=black" alt="GitHub"/>
+</a>
