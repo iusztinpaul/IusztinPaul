@@ -34,15 +34,18 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
 
 <table>
   <tr>
-    <td>
-      <a href="https://linktr.ee/decodingml">
-        <img src="images/dml_logo.png" alt="DML Logo" width="200px"/>
+    <td width="30%">
+      <a href="https://decodingml.substack.com/" aria-label="Decoding ML">
+        <img src="images/dml_logo.png" alt="Decoding ML Logo" width="200"/>
       </a>
     </td>
-    <td>
-        <h2> Founder @ Decoding ML </h1>
-        <h3> → A channel for proven content on designing, coding, and deploying production-grade AI, GenAI, and information retrieval systems—built with ML systems, MLE, and MLOps best practices </h2>
+    <td width="70%">
+      <div>
+        <h2>Founder @ Decoding ML</h2>
+        <p>A channel for proven content on designing, coding, and deploying production-grade AI, GenAI, and information retrieval systems. Built with ML systems, MLE, and MLOps best practices.</p>
+      </div>
     </td>
+  </tr>
 </table>
 
 ## 🗞️ Join Decoding ML
