@@ -8,6 +8,8 @@
 
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
+-----
+
 ## 🎯 What I do
 
 - Design and implement production-ready AI, GenAI and information retrieval systems
