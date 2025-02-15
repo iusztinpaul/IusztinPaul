@@ -47,12 +47,6 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
 
 ## 🗞️ Join Decoding ML
 
-<a href="https://decodingml.substack.com/">
-  <img src="https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black" alt="Newsletter"/>
-</a>
-<a href="https://decodingml.substack.com/">
-  <img src="https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black" alt="Blog"/>
-</a>
-<a href="https://github.com/decodingml">
-  <img src="https://img.shields.io/static/v1?label&logo=github&message=GitHub&style=for-the-badge&color=black" alt="GitHub"/>
-</a>
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://decodingml.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://decodingml.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=github&message=GitHub&style=for-the-badge&color=black)](https://github.com/decodingml)
