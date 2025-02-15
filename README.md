@@ -1,6 +1,6 @@
 # Paul Iusztin
 
-![banner](./images/banner.png)
+![banner](./images/banner.jpg)
 
 **`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade AI systems.`**
 
