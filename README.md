@@ -2,7 +2,7 @@
 
 ![banner](./images/banner.png)
 
-**`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade ML/AI systems.`**
+**`Senior Machine Learning Engineer • MLOps • Founder @ Decoding ML ~ Posts and articles about building production-grade AI systems.`**
 
 <br/>
 
@@ -10,21 +10,19 @@
 
 ### You have to know that I like to...
 
-* Design and implement production AI/ML systems using MLOps best practices.
+* Design and implement production AI and GenAI systems using MLOps and Software Engineering best practices.
 
 * Teach people about the process.
-
-🔗 More about me at https://pauliusztin.me.
 
 -----
 
 ## Socials
 
-[<img alt="gmail" width="40px" src="images/gmail_512.png" align="left" style="padding-right:20px;"/>](mailto:p.b.iusztin@gmail.com?subject=[From%20GitHub]%20ML%20Collaborations)
-[<img alt="medium" width="40px" src="images/medium_512.png" align="left" style="padding-right:20px;"/>](https://pauliusztin.medium.com/)
-[<img alt="linkedin" width="40px" src="images/linkedin_512.png" align="left" style="padding-right:20px;"/>](https://www.linkedin.com/in/pauliusztin)
-[<img alt="x" width="40px" src="images/x_512.png" align="left" style="padding-right:20px;"/>](https://x.com/iusztinpaul)
-[<img alt="linkedin" width="40px" src="images/instagram_512.png" align="left" style="padding-right:20px;"/>](https://www.instagram.com/pauliusztin/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://decodingml.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://decodingml.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/pauliusztin/)
+[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/iusztinpaul)
+[![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/pauliusztin/)
 
 <br/>
 <br/>
@@ -38,20 +36,17 @@
   <tr>
     <td>
       <a href="https://linktr.ee/decodingml">
-        <img src="images/dml_1500.png" alt="DML Logo" width="200px"/>
+        <img src="images/dml_logo.png" alt="DML Logo" width="200px"/>
       </a>
     </td>
     <td>
         <h2> Founder @ Decoding ML </h1>
-        <h3> → A channel for battle-tested content on designing, coding, and deploying production-grade ML & MLOps systems. </h2>
+        <h3> → A channel for proven content on designing, coding, and deploying production-grade AI, GenAI, and information retrieval systems—built with ML systems, MLE, and MLOps best practices </h2>
     </td>
 </table>
 
-### [Join Decoding ML](https://linktr.ee/decodingml) for free articles and tutorials on production-grade AI, ML and MLOps at:
-* [Weekly newsletter](https://decodingml.substack.com/)
-* [Blog](https://medium.com/decodingml)
-* [GitHub](https://github.com/decodingml)
+### [Join Decoding ML](https://decodingml.substack.com/) for courses, articles and tutorials on production-grade AI and GenAI systems at:
 
------
-
-🎨 Creating content takes me a lot of time. If you enjoyed my work, consider supporting me by [**buying me a coffee.**](https://www.buymeacoffee.com/pauliusztin)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://decodingml.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://decodingml.substack.com/)
+[![](https://img.shields.io/static/v1?label&logo=github&message=GitHub&style=for-the-badge&color=black)](https://github.com/decodingml)
