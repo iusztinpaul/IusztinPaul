@@ -45,7 +45,7 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
     </td>
 </table>
 
-### 📚 Join the Decoding ML Community
+## 📚 Join the Decoding ML Community
 
 <p align="center">
   <a href="https://decodingml.substack.com/">
