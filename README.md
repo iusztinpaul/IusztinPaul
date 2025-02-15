@@ -8,7 +8,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
-### You have to know that I like to...
+### My passion is to:
 
 * Design and implement production AI and GenAI systems using MLOps and Software Engineering best practices.
 
