@@ -8,13 +8,13 @@
 
 ![Views](https://komarev.com/ghpvc/?username=IusztinPaul)
 
-## 🎯 What I Do
+-----
+
+## 🎯 What I do
 
 - Design and implement production-ready AI, GenAI and information retrieval systems
 - Love using MLOps and Software Engineering best practices
 - Teach people about the process through my blog and newsletter
-
------
 
 ## 🔗 Socials
 
