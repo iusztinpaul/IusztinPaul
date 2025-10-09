@@ -2,7 +2,7 @@
 
 ![banner](./images/banner.jpg)
 
-**`Senior AI/ML Engineer • Founder @ Decoding ML ~ Articles and courses about building production-grade AI systems.`**
+**`Senior AI Engineer • Founder @ Decoding AI ~ Building an army of AI agents and teaching you about the process.`**
 
 <br/>
 
@@ -21,7 +21,7 @@
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://decodingml.substack.com/)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://decodingml.substack.com/)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/pauliusztin/)
-[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/iusztinpaul)
+[![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/pauliusztin_)
 [![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/pauliusztin/)
 
 ## 🤝 Let's collaborate!
@@ -35,20 +35,20 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
 <table>
   <tr>
     <td width="30%">
-      <a href="https://decodingml.substack.com/" aria-label="Decoding ML">
-        <img src="images/dml_logo.png" alt="Decoding ML Logo" width="200"/>
+      <a href="https://decodingml.substack.com/" aria-label="Decoding AI">
+        <img src="images/dai_logo.png" alt="Decoding AI Logo" width="200"/>
       </a>
     </td>
     <td width="70%">
       <div>
-        <h2>Founder @ Decoding ML</h2>
+        <h2>Founder @ the Decoding AI Magazine</h2>
         <p>A channel for proven content on designing, coding, and deploying production-grade AI, GenAI, and information retrieval systems - built with ML systems, MLE, and MLOps best practices.</p>
       </div>
     </td>
   </tr>
 </table>
 
-## 🗞️ Join Decoding ML
+## 🗞️ Join the Decoding AI Magazine
 
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://decodingml.substack.com/)
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://decodingml.substack.com/)
