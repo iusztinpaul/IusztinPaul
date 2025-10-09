@@ -1,6 +1,6 @@
 # Paul Iusztin
 
-![banner](./images/banner.jpg)
+[![banner](./images/banner.jpg)](https://decodingml.substack.com/)
 
 **`Senior AI Engineer • Founder @ Decoding AI ~ Building an army of AI agents and teaching you about the process.`**
 
@@ -42,7 +42,7 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
     <td width="70%">
       <div>
         <h2>Founder @ the Decoding AI Magazine</h2>
-        <p>A channel for proven content on designing, coding, and deploying production-grade AI, GenAI, and information retrieval systems - built with ML systems, MLE, and MLOps best practices.</p>
+        <p>A channel for proven content on designing, coding, and deploying production-grade AI systems with software engineering and MLOps best practices to help you ship AI applications. Every week, straight to your inbox.</p>
       </div>
     </td>
   </tr>
