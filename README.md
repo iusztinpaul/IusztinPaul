@@ -1,6 +1,6 @@
 # Paul Iusztin
 
-[![banner](./images/banner.jpg)](https://decodingml.substack.com/)
+[![banner](./images/banner.jpg)](https://decodingai.com)
 
 **`Senior AI Engineer • Founder @ Decoding AI ~ Building an army of AI agents and teaching you about the process.`**
 
