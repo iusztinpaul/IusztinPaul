@@ -22,7 +22,8 @@
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://www.decodingai.com/)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/pauliusztin/)
 [![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/pauliusztin_)
-[![](https://img.shields.io/static/v1?label&logo=globe&message=Website&style=for-the-badge&color=white)](https://pauliusztin.ai)
+[![](https://img.shields.io/static/v1?label&logo=globe&message=Website&style=for-the-badge&color=black)](https://pauliusztin.ai)
+[![](https://img.shields.io/static/v1?label=&logo=globe&message=Website&style=for-the-badge&color=black&logoColor=white)](https://pauliusztin.ai)
 [![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/pauliusztin/)
 
 ## 🤝 Let's collaborate!
