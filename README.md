@@ -27,7 +27,7 @@
 
 ## 🤝 Let's collaborate!
 
-I'm always excited to collaborate with AI enthusiats and creators. Have an idea or working on something cool? Let's talk!
+I'm always excited to collaborate with other AI enthusiats and creators. Have an idea or working on something cool? Let's talk!
 
 📧 Reach out at [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
 
@@ -43,7 +43,7 @@ I'm always excited to collaborate with AI enthusiats and creators. Have an idea 
     <td width="70%">
       <div>
         <h2>Founder @ the Decoding AI Magazine</h2>
-        <p>A channel for proven content on designing, building, and shipping AI software that works. Every Tuesday, straight to your inbox.</p>
+        <p>Weekly hub for learning how to design, build, and ship production-grade AI systems. End-to-end. From idea to production. Every Tuesday, straight to your inbox.</p>
       </div>
     </td>
   </tr>
