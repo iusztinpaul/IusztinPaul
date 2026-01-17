@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-Hi there
+Hi there,
 
 I’m the author of the bestseller LLM Engineer’s Handbook, lead instructor of the Agentic AI Engineering course, and founding AI Engineer of a San Francisco startup.
 
