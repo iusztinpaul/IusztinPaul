@@ -10,11 +10,15 @@
 
 -----
 
-## 🎯 What I do
+## 👋 About Me
 
-- Design and implement production-ready AI, GenAI and information retrieval systems
-- Love using MLOps and Software Engineering best practices
-- Teach people about the process through my blog and newsletter
+Hi there
+
+I’m the author of the bestseller LLM Engineer’s Handbook, lead instructor of the Agentic AI Engineering course, and founding AI Engineer of a San Francisco startup.
+
+With 10+ years of experience and 20 apps shipped, I teach AI Engineering end-to-end: from idea and data collection to production, monitoring, and evaluation. My focus is on the software patterns and infrastructure systems built to thrive in an AI-dominated future.
+
+My goal is to help engineers escape PoC purgatory and 10x their AI Engineering skills.
 
 ## 🔗 Socials
 
