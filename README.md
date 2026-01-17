@@ -2,7 +2,7 @@
 
 [![banner](./images/banner.jpg)](https://decodingai.com)
 
-**`Senior AI Engineer • Founder @ Decoding AI ~ Building an army of AI agents and teaching you about the process.`**
+**`Senior AI Engineer • Founder @ Decoding AI • Author @ LLM Engineer’s Handbook ~ I ship AI products and teach you about the process.`**
 
 <br/>
 
@@ -22,12 +22,12 @@
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://www.decodingai.com/)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/pauliusztin/)
 [![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/pauliusztin_)
-[![](https://img.shields.io/static/v1?label&logo=globe&message=Website&style=for-the-badge&color=black)](https://pauliusztin.ai)
+[![](https://img.shields.io/static/v1?label&logo=globe&message=pauliusztin.ai&style=for-the-badge&color=black)](https://pauliusztin.ai)
 [![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/pauliusztin/)
 
 ## 🤝 Let's collaborate!
 
-We're always excited to collaborate with AI practitioners and creators. Have an idea or want to work together?
+I'm always excited to collaborate with AI enthusiats and creators. Have an idea or working on something cool? Let's talk!
 
 📧 Reach out at [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
 
@@ -43,7 +43,7 @@ We're always excited to collaborate with AI practitioners and creators. Have an 
     <td width="70%">
       <div>
         <h2>Founder @ the Decoding AI Magazine</h2>
-        <p>A channel for proven content on designing, coding, and deploying production-grade AI systems with software engineering and MLOps best practices to help you ship AI applications. Every week, straight to your inbox.</p>
+        <p>A channel for proven content on designing, building, and shipping AI software that works. Every Tuesday, straight to your inbox.</p>
       </div>
     </td>
   </tr>
