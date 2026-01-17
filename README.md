@@ -18,8 +18,8 @@
 
 ## 🔗 Socials
 
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Newsletter&style=for-the-badge&color=black)](https://www.decodingai.com/)
-[![](https://img.shields.io/static/v1?label&logo=substack&message=Blog&style=for-the-badge&color=black)](https://www.decodingai.com/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Magazine&style=for-the-badge&color=black)](https://www.decodingai.com/)
+[![](https://img.shields.io/static/v1?label&logo=substack&message=Substack&style=for-the-badge&color=black)](https://substack.com/@pauliusztin)
 [![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/pauliusztin/)
 [![](https://img.shields.io/static/v1?label&logo=x&message=Twitter&style=for-the-badge&color=black)](https://x.com/pauliusztin_)
 [![](https://img.shields.io/static/v1?label&logo=globe&message=pauliusztin.ai&style=for-the-badge&color=black)](https://pauliusztin.ai)
