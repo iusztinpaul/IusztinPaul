@@ -31,9 +31,9 @@ My goal is to help engineers escape PoC purgatory and 10x their AI Engineering s
 
 ## 🤝 Let's collaborate!
 
-I'm always excited to collaborate with other AI enthusiats and creators. Have an idea or working on something cool? Let's talk!
+I'm always excited to collaborate with guest authors, brands and start-ups
 
-📧 Reach out at [p.b.iusztin@gmail.com](mailto:p.b.iusztin@gmail.com)
+📧 [Let's talk!](https://www.pauliusztin.ai/contact)
 
 -----
 
