@@ -14,7 +14,7 @@
 
 Hi there,
 
-I’m the author of the bestseller LLM Engineer’s Handbook, lead instructor of the Agentic AI Engineering course, and founding AI Engineer of a San Francisco startup.
+I’m the author of the bestseller LLM Engineer’s Handbook, lead instructor of the Agentic AI Engineering course, and obsessed with making knowledge accessible through AI.
 
 With 10+ years of experience and 20 apps shipped, I teach AI Engineering end-to-end: from idea and data collection to production, monitoring, and evaluation. My focus is on the software patterns and infrastructure systems built to thrive in an AI-dominated future.
 
