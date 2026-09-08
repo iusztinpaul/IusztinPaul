@@ -57,3 +57,4 @@ I'm always excited to collaborate with guest authors, brands and start-ups
 
 [![](https://img.shields.io/static/v1?label&logo=substack&message=Substack&style=for-the-badge&color=black)](https://www.decodingai.com/)
 [![](https://img.shields.io/static/v1?label&logo=github&message=GitHub&style=for-the-badge&color=black)](https://github.com/decodingai-magazine)
+[![](https://img.shields.io/static/v1?label&logo=youtube&message=YouTube&style=for-the-badge&color=black)](https://www.youtube.com/@itsdecodingai)
